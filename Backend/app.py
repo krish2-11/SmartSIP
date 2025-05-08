@@ -1,8 +1,9 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_from_directory
 import joblib
 import pandas as pd
 import numpy as np
 from flask_cors import CORS
+import os
 
 # Load models and data
 kmeans = joblib.load('kmeans_model.pkl')
@@ -11,11 +12,15 @@ lgb_model = joblib.load('lightgbm_model.pkl')
 df = pd.read_csv('user_clusters_scores.csv')
 
 # Create Flask app
-app = Flask(__name__)
+app = Flask(__name__, static_folder='../frontend/build', static_url_path='/')
 CORS(app) 
 @app.route('/')
 def home():
-    return "🟢 User SIP Recommendation API is running!"
+    return send_from_directory(app.static_folder, 'index.html')
+
+@app.errorhandler(404)
+def not_found(e):
+    return send_from_directory(app.static_folder, 'index.html')
 
 @app.route('/predict', methods=['POST'])
 def predict():
