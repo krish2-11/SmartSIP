@@ -2,6 +2,7 @@ from flask import Flask, request, jsonify
 import joblib
 import pandas as pd
 import numpy as np
+from flask_cors import CORS
 
 # Load models and data
 kmeans = joblib.load('kmeans_model.pkl')
@@ -11,7 +12,7 @@ df = pd.read_csv('user_clusters_scores.csv')
 
 # Create Flask app
 app = Flask(__name__)
-
+CORS(app) 
 @app.route('/')
 def home():
     return "🟢 User SIP Recommendation API is running!"
@@ -23,11 +24,11 @@ def predict():
         data = request.get_json()
 
         # Extract and convert inputs
-        age = int(data['Age'])
-        income = float(data['Monthly Income (INR)'])
-        risk = data['Risk Appetite']
-        horizon = int(data['Time Horizon (Years)'])
-        goal = data['Investment Goal']
+        age = int(data['age'])
+        income = float(data['monthlyIncome'])
+        risk = data['riskAppetite']
+        horizon = int(data['timeHorizon'])
+        goal = data['investmentGoal']
 
         # Encode categorical features
         risk_map = {'Low': 0, 'Moderate': 1, 'High': 2}
@@ -56,13 +57,13 @@ def predict():
         result = []
         for _, row in suggestions.iterrows():
             result.append({
-                "Age": row['Age'],
-                "Monthly Income (INR)": row['Monthly Income (INR)'],
-                "Risk Appetite": row['Risk Appetite'],
-                "Time Horizon (Years)": row['Time Horizon (Years)'],
-                "Investment Goal": row['Investment Goal'],
+                "age": row['Age'],
+                "monthlyIncome": row['Monthly Income (INR)'],
+                "riskAppetite": row['Risk Appetite'],
+                "timeHorizon": row['Time Horizon (Years)'],
+                "investmentGoal": row['Investment Goal'],
                 "Recommended SIP Funds": row['Recommended SIP Funds'],
-                "Predicted Score": row['Predicted Score']
+                "Predicted_Score": row['Predicted Score']
             })
 
         return jsonify({

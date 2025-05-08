@@ -1,11 +1,6 @@
 import { useState } from 'react';
-
+import axios from 'axios';
 function SIPRecommendations({ recommendations, onBack }) {
-  const renderStars = (rating) => {
-    return Array.from({ length: 5 }, (_, i) => (
-      <span key={i} className={i < rating ? "text-yellow-400" : "text-gray-400"}>★</span>
-    ));
-  };
 
   return (
     <div className="min-h-screen bg-gray-50 p-8">
@@ -20,30 +15,34 @@ function SIPRecommendations({ recommendations, onBack }) {
             {recommendations?.map((fund, index) => (
               <div key={index} className="bg-white rounded-xl p-6 border border-gray-200 hover:shadow-lg transition-all">
                 <div className="flex justify-between items-start mb-4">
-                  <h3 className="text-lg font-semibold text-gray-900">{fund['Fund Name']}</h3>
+                  <h3 className="text-lg font-semibold text-gray-900">{fund['Recommended SIP Funds']}</h3>
                   <span className="px-3 py-1 bg-green-100 text-green-800 rounded-full text-sm">
-                    {fund.Category}
+                    {parseInt(fund.Predicted_Score)}
                   </span>
                 </div>
                 
-                <div className="space-y-3 text-sm">
-                  <div className="flex justify-between">
-                    <span className="text-gray-600">Rating:</span>
-                    <span className="text-yellow-500">{renderStars(fund.Rating)}</span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span className="text-gray-600">1Y Returns:</span>
-                    <span className="text-green-600">{fund['1 Year Return']}%</span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span className="text-gray-600">3Y Returns:</span>
-                    <span className="text-blue-600">{fund['3 Year Return']}%</span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span className="text-gray-600">NAV:</span>
-                    <span className="text-gray-900">₹{fund.NAV}</span>
-                  </div>
-                </div>
+                <div className="pt-3 border-t border-gray-200">
+    <div className="flex justify-between mt-2">
+      <span className="text-gray-600">Age:</span>
+      <span className="text-gray-900">{fund.age} years</span>
+    </div>
+    <div className="flex justify-between">
+      <span className="text-gray-600">Monthly Income:</span>
+      <span className="text-gray-900">₹{fund.monthlyIncome.toLocaleString()}</span>
+    </div>
+    <div className="flex justify-between">
+      <span className="text-gray-600">Risk Appetite:</span>
+      <span className="text-gray-900 capitalize">{fund.riskAppetite === 0 ? 'Low' : (fund.riskAppetite === 1 ? 'Moderate' : 'High')}</span>
+    </div>
+    <div className="flex justify-between">
+      <span className="text-gray-600">Time Horizon:</span>
+      <span className="text-gray-900">{fund.timeHorizon} years</span>
+    </div>
+    <div className="flex justify-between">
+      <span className="text-gray-600">Investment Goal:</span>
+      <span className="text-gray-900 capitalize">{fund.investmentGoal === 0 ? 'Wealth Creation' : (fund.investmentGoal === 1 ? 'Tax Saving' : (fund.investmentGoal === 2 ? 'Retirement' : 'Others') )}</span>
+    </div>
+  </div>
 
                 <div className="mt-6 pt-4 border-t border-gray-100">
                   <button className="w-full py-2 px-4 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-all">
@@ -73,10 +72,10 @@ function SIPRecommendations({ recommendations, onBack }) {
 
 export default function SmartSIPPredictor() {
   const [formData, setFormData] = useState({
-    age: '',
-    monthlyIncome: '',
-    riskAppetite: 'Medium',
-    timeHorizon: '',
+    age: 0,
+    monthlyIncome: 0,
+    riskAppetite: 'Moderate',
+    timeHorizon: 0,
     investmentGoal: 'Wealth Creation'
   });
 
@@ -93,56 +92,47 @@ export default function SmartSIPPredictor() {
     setFormData(prev => ({ ...prev, [name]: value }));
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-
+  
     if (!formData.age || !formData.monthlyIncome || !formData.timeHorizon) {
       alert("Please fill all required fields");
       return;
     }
-
+  
     setLoading(true);
-
-    setTimeout(() => {
-      const mockOutput = {
-        top_suggestions: [
-          {
-            "1 Year Return": 25.52,
-            "3 Year Return": 15.27,
-            "AUM": 5865.8,
-            "Category": "Hybrid",
-            "Fund Name": "SBI Multi Asset Allocation-G",
-            "Model Score": 20.457,
-            "NAV": 56.47,
-            "Rating": 4
-          },
-          {
-            "1 Year Return": 25.18,
-            "3 Year Return": 12.8,
-            "AUM": 449.96,
-            "Category": "Hybrid",
-            "Fund Name": "HSBC Equity Savings-G",
-            "Model Score": 20.381,
-            "NAV": 32.62,
-            "Rating": 5
-          },
-          {
-            "1 Year Return": 25.84,
-            "3 Year Return": 13.97,
-            "AUM": 4111.83,
-            "Category": "Hybrid",
-            "Fund Name": "Baroda BNP Paribas Balanced Advantage Reg-G",
-            "Model Score": 19.872,
-            "NAV": 23.82,
-            "Rating": 4
-          }
-        ]
+    
+    try {
+      // Convert numeric fields and prepare payload
+      const payload = {
+        age: parseInt(formData.age),
+        monthlyIncome: parseFloat(formData.monthlyIncome),
+        riskAppetite: formData.riskAppetite,
+        timeHorizon: parseInt(formData.timeHorizon),
+        investmentGoal: formData.investmentGoal
       };
-
-      setResult(mockOutput);
+  
+      console.log("Sending payload:", payload); // Debug log
+  
+      const response = await axios.post('http://127.0.0.1:5000/predict', payload, {
+        headers: {
+          'Content-Type': 'application/json'
+        }
+      });
+  
+      console.log("Response received:", response.data); // Debug log
+      setResult(response.data.top_suggestions);
       setShowRecommendations(true);
+    } catch (error) {
+      console.error('Error details:', {
+        message: error.message,
+        response: error.response?.data,
+        request: error.request
+      });
+      alert(`Error: ${error.response?.data?.message || error.message}`);
+    } finally {
       setLoading(false);
-    }, 1500);
+    }
   };
 
   const resetForm = () => {
@@ -172,7 +162,7 @@ export default function SmartSIPPredictor() {
     <>
       {showRecommendations ? (
         <SIPRecommendations 
-          recommendations={result?.top_suggestions} 
+          recommendations={result} 
           onBack={resetForm}
         />
       ) : (
@@ -229,7 +219,7 @@ export default function SmartSIPPredictor() {
                     <div className="bg-gray-50 p-5 rounded-xl">
                       <label className="block text-sm font-medium text-gray-700 mb-2">Risk Appetite <span className="text-red-500">*</span></label>
                       <div className="mt-2 grid grid-cols-3 gap-2">
-                        {['Low', 'Medium', 'High'].map((risk) => (
+                        {['Low', 'Moderate', 'High'].map((risk) => (
                           <button
                             key={risk}
                             type="button"
