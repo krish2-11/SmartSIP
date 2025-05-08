@@ -1,0 +1,749 @@
+AMC,Fund Name,Morning star rating,Value Research rating,1 month return,NAV,1 Year return,3 Year Return,Minimum investment,Fund Manager,AUM,Category,Risk,score,Predicted Score,Cluster
+mahindra manulife mutual fund,Mahindra Manulife Large & Mid Cap Reg-G,3,3,5.51%,28.32,37.79,20.29,Rs.500.0,Abhinav Khandelwal,2569.63,Equity,High ,26.232,26.227007745885768,1
+mahindra manulife mutual fund,Mahindra Manulife Consumption Reg-G,0,3,7.25%,24.89,46.08,21.93,Rs.500.0,Abhinav Khandelwal,322.26,Equity,High ,30.204,30.114890724867987,1
+mahindra manulife mutual fund,Mahindra Manulife Mid Cap Reg-G,4,4,5.94%,35.11,54.46,27.48,Rs.500.0,Abhinav Khandelwal,3292.76,Equity,High ,36.776,37.12580417343211,1
+mahindra manulife mutual fund,Mahindra Manulife Large Cap Reg-G,4,3,4.06%,23.69,32.07,15.18,Rs.500.0,Abhinav Khandelwal,577.72,Equity,Very High,21.900000000000002,21.714757888426327,1
+tata mutual fund,Tata Infrastructure Reg-G,4,3,2.64%,198.23,54.87,31.46,Rs.100.0,Abhinav Sharma,2565.49,Equity,Very High,37.532000000000004,37.96170848009246,1
+tata mutual fund,Tata Flexi Cap Reg-G,0,3,6.74%,24.41,34.35,14.9,Rs.100.0,Abhinav Sharma,3075.39,Equity,Very High,22.700000000000003,22.50651321347849,1
+tata mutual fund,Tata Midcap Growth Reg-G,3,3,5.31%,455.92,46.49,23.52,Rs.100.0,Abhinav Sharma,4514.03,Equity,High ,31.003999999999998,31.194450090350863,1
+kotak mahindra mutual fund,Kotak Balanced Advantage Reg-G,3,3,3.65%,20.12,22.08,11.9,Rs.100.0,Abhishek Bisen,16988.47,Hybrid,Very High,16.592,17.147242261020548,2
+kotak mahindra mutual fund,Kotak Gold Reg-G,0,3,3.84%,28.71,23.17,14.07,Rs.100.0,Abhishek Bisen,1977.07,Other,High,17.896,17.780308278867896,2
+kotak mahindra mutual fund,Kotak Bond Reg-G,4,3,1.04%,72.69,8.68,5.27,Rs.100.0,Abhishek Bisen,2161.3,Debt,Moderate,8.58,8.587597194786719,0
+kotak mahindra mutual fund,Kotak Debt Hybrid Reg-G,5,4,2.36%,56.8,17.93,10.64,Rs.100.0,Abhishek Bisen,2760.72,Hybrid,Moderately High,15.428,14.976398041964526,0
+kotak mahindra mutual fund,Kotak Gilt Investment PF & Trust-G,3,3,1.53%,94.34,9.26,5.71,Rs.100.0,Abhishek Bisen,3643.14,Debt,Moderate,8.988000000000001,9.024838869329404,0
+kotak mahindra mutual fund,Kotak Gilt Investment Regular-G,3,3,1.53%,92.22,9.25,5.71,Rs.100.0,Abhishek Bisen,3643.14,Debt,Moderate,8.984,8.884452082183879,0
+kotak mahindra mutual fund,Kotak Equity Savings Reg-G,4,5,2.39%,25.53,20.39,12.76,Rs.100.0,Abhishek Bisen,7114.71,Hybrid,Moderately High,18.26,18.112269791889684,0
+kotak mahindra mutual fund,Kotak Nifty 50 Index Reg-G,0,2,5.06%,16.37,26.97,14.08,Rs.100.0,Abhishek Bisen,751.07,Other,Very High,18.42,18.32686052175726,2
+mirae asset mutual fund,Mirae Asset Liquid-G,3,4,0.58%,2592.72,7.34,6.0,Rs.500.0,Abhishek Iyer,12648.37,Debt,Low to Moderate,9.336,9.322151176921189,0
+mirae asset mutual fund,Mirae Asset Overnight Reg-G,0,4,0.54%,1259.04,6.74,5.63,Rs.500.0,Abhishek Iyer,616.04,Debt,Low,8.948,8.940133151625327,0
+motilal oswal mutual fund,Motilal Oswal ELSS Tax Saver Reg-G,4,4,9.28%,54.55,66.25,25.68,Rs.500.0,Aditya Khemani,3983.77,Equity,Very High,40.772,39.69245700029443,1
+motilal oswal mutual fund,Motilal Oswal Large and Midcap Reg-G,4,5,9.15%,33.62,59.53,25.94,Rs.500.0,Aditya Khemani,5810.75,Equity,Very High,39.188,39.49832630508507,1
+navi mutual fund,Navi Aggressive Hybrid Reg-G,2,2,5.15%,20.84,24.79,13.81,Rs.10.0,Aditya Mulki,111.92,Hybrid,Very High,17.44,17.218592831445477,2
+navi mutual fund,Navi Nifty 50 Index Reg-G,0,3,5.06%,16.3,27.25,14.31,Rs.10.0,Aditya Mulki,2448.7,Other,Very High,19.624000000000002,19.60225352069553,2
+navi mutual fund,Navi Flexi Cap Reg-G,0,2,4.88%,24.08,26.42,15.3,Rs.10.0,Aditya Mulki,278.85,Equity,Very High,18.688000000000002,18.653678511422434,2
+navi mutual fund,Navi Large & Midcap-G,1,1,5.76%,37.11,28.66,16.32,Rs.10.0,Aditya Mulki,328.75,Equity,High ,18.992,18.722848199103982,2
+navi mutual fund,Navi Conservative Hybrid Reg-G,2,2,1.37%,26.27,10.06,6.03,Rs.10.0,Aditya Mulki,35.75,Hybrid,Moderate,8.436,8.795011101248935,2
+axis mutual fund,Axis Floater Reg-G,4,1,1.38%,1220.55,9.7,6.63,Rs.100.0,Aditya Pagaria,259.41,Debt,Moderate,7.532,7.483446590828685,2
+axis mutual fund,Axis Gold Reg-G,0,5,3.51%,21.78,22.78,14.61,Rs.100.0,Aditya Pagaria,555.96,Other,High,19.956,19.796038796662312,0
+axis mutual fund,Axis Banking & PSU Debt-G,4,4,0.68%,2470.27,7.25,5.45,Rs.1000.0,Aditya Pagaria,13282.68,Debt,Moderate,9.08,9.12030334819761,0
+axis mutual fund,Axis Ultra Short Term Reg-G,3,3,0.54%,13.93,6.82,5.47,Rs.1000.0,Aditya Pagaria,5949.05,Debt,Low to Moderate,7.916,7.931928669619242,0
+axis mutual fund,Axis Overnight Reg-G,0,5,0.54%,1300.89,6.79,5.67,Rs.500.0,Aditya Pagaria,7875.74,Debt,Low,9.984,9.978246719707384,0
+franklin templeton mutual fund,Franklin India Focused Equity-G,4,4,5.63%,111.74,36.94,20.48,Rs.500.0,Ajay Argal,12740.06,Equity,Moderately High ,26.968,26.824259219263254,1
+franklin templeton mutual fund,Franklin Build India-G,4,3,3.17%,145.29,59.67,32.42,Rs.500.0,Ajay Argal,2904.32,Equity,Very High,39.836000000000006,41.09025655423701,1
+uti mutual fund,UTI Flexi Cap Reg-G,0,1,8.05%,333.47,27.89,8.18,Rs.500.0,Ajay Tyagi,27053.06,Equity,Very High,15.428,13.593063816238297,2
+tata mutual fund,Tata Floating Rate Reg-G,3,4,0.67%,11.96,7.27,5.88,Rs.500.0,Akhil Mittal,197.11,Debt,Low to Moderate,9.26,9.2404797836026,0
+tata mutual fund,Tata Treasury Advantage Reg-G,4,4,0.57%,3701.9,7.17,5.68,Rs.500.0,Akhil Mittal,2641.14,Debt,Low to Moderate,9.14,9.138637241695351,0
+tata mutual fund,Tata Ultra Short Term Fund Reg-G,3,2,0.54%,13.4,6.79,5.43,Rs.500.0,Akhil Mittal,2733.78,Debt,Low to Moderate,6.888,6.878083804920531,2
+tata mutual fund,Tata GSF Reg-G,3,3,1.02%,73.84,8.18,5.54,Rs.500.0,Akhil Mittal,763.15,Debt,Moderate,8.488000000000001,8.4770998620576,0
+lic mutual fund,LIC MF Value Reg-G,1,2,6.88%,26.48,42.83,19.12,Rs.1000.0,Alok Ranjan,126.94,Equity,High ,26.78,26.324196162343704,1
+lic mutual fund,LIC MF Focused Reg-G,2,3,6.96%,22.88,31.5,15.02,Rs.1000.0,Alok Ranjan,152.71,Equity,Very High,21.608,21.55599782051521,1
+lic mutual fund,LIC MF Midcap Reg-G,2,1,4.70%,30.83,53.11,20.62,Rs.1000.0,Alok Ranjan,328.26,Equity,High ,30.492,30.56969034638441,1
+lic mutual fund,LIC MF Small Cap Reg-G,3,3,6.78%,34.03,56.19,28.26,Rs.1000.0,Alok Ranjan,348.02,Equity,Very High ,36.78,39.39588693436198,1
+lic mutual fund,LIC MF Healthcare Reg-G,0,1,8.89%,29.94,55.38,14.38,Rs.1000.0,Alok Ranjan,71.64,Equity,Very High,28.904000000000003,28.090304766694096,2
+bank of india mutual fund,Bank of India Balanced Advantage Reg-G,2,2,2.70%,25.31,22.28,15.38,Rs.1000.0,Alok Singh,139.94,Hybrid,Very High,17.064,17.337348415191848,2
+bank of india mutual fund,Bank of India Flexi Cap Reg-G,0,4,4.05%,36.76,55.3,24.3,Rs.1000.0,Alok Singh,1834.57,Equity,Moderate ,35.84,35.91958214067571,1
+bank of india mutual fund,Bank of India Arbitrage Reg-G,0,1,0.50%,13.13,6.91,4.93,Rs.1000.0,Alok Singh,35.68,Hybrid,Low,5.736000000000001,5.830450375293101,2
+bank of india mutual fund,Bank of India Conservative Hybrid Reg-G,4,5,1.00%,33.31,12.21,13.23,Rs.1000.0,Alok Singh,65.8,Hybrid,Moderately High,15.176000000000002,14.936711999382494,0
+bank of india mutual fund,Bank of India Mid & Small Cap Equity &,5,5,3.46%,39.51,42.48,19.76,Rs.1000.0,Alok Singh,978.12,Hybrid,High ,29.896,30.215082534295433,1
+bank of india mutual fund,Bank of India ELSS Tax Saver Reg-G,5,5,1.96%,172.53,44.23,19.18,Rs.500.0,Alok Singh,1487.26,Equity,Moderate ,30.364,30.455201312951644,1
+bank of india mutual fund,Bank of India Credit Risk Reg-G,3,3,0.28%,11.61,6.0,39.07,Rs.5000.0,Alok Singh,115.0,Debt,Moderately High,21.028,19.220165796744897,1
+uti mutual fund,UTI Conservative Hybrid Reg-G,4,4,2.34%,66.75,16.32,10.01,Rs.500.0,Amandeep Singh Chopra,1640.72,Hybrid,Moderately High,14.532,14.660566009859552,0
+uti mutual fund,UTI Liquid Reg-G,4,4,0.57%,4055.46,7.32,6.0,Rs.500.0,Amandeep Singh Chopra,23290.82,Debt,Moderate,9.328000000000001,9.270648933441763,0
+uti mutual fund,UTI Medium to Long Duration Reg-G,3,5,1.12%,69.19,8.12,10.4,Rs.500.0,Amandeep Singh Chopra,307.07,Debt,Moderate,12.408,12.701859999026572,0
+nippon india mutual fund,Nippon India Consumption-G,3,5,6.88%,217.11,45.54,24.47,Rs.100.0,Amar Kalkundrikar,1700.54,Equity,High ,33.004000000000005,33.077561688903046,1
+nippon india mutual fund,Nippon India Vision-G,3,3,6.30%,1474.68,46.62,21.52,Rs.100.0,Amar Kalkundrikar,5375.02,Equity,High ,30.256,30.028072422433755,1
+tata mutual fund,Tata Banking and Financial Services Reg-G,4,3,7.30%,39.93,21.9,14.84,Rs.100.0,Amey Sathe,2302.4,Equity,Very High,17.696,17.7817227127117,2
+tata mutual fund,Tata Large Cap Reg-G,3,3,3.83%,515.8,33.68,16.15,Rs.100.0,Amey Sathe,2472.14,Equity,Moderate ,22.932000000000002,22.787986419861046,1
+invesco mutual fund,Invesco India Balanced Advantage-G,3,2,3.18%,53.23,26.53,12.84,Rs.500.0,Amit Ganatra,865.59,Hybrid,Very High,17.748,17.753156028971027,2
+uti mutual fund,UTI Value Reg-G,3,3,6.00%,173.27,45.66,20.32,Rs.500.0,Amit Kumar Premchandani,10543.09,Equity,High ,29.392,29.583379322021532,1
+uti mutual fund,UTI Banking and Financial Services Reg-G,2,2,5.35%,174.09,23.3,14.05,Rs.500.0,Amit Kumar Premchandani,1150.06,Equity,Very High,16.94,16.948706233121055,2
+lic mutual fund,LIC MF Flexi Cap-G,0,3,7.16%,106.6,36.14,16.64,Rs.1000.0,Amit Nadekar,1108.79,Equity,Moderate ,24.112000000000002,24.122041255060434,1
+lic mutual fund,LIC MF ELSS Tax Saver-G,2,2,6.00%,157.64,36.59,17.07,Rs.1000.0,Amit Nadekar,1192.26,Equity,Moderate ,23.464000000000002,23.27818366930327,2
+invesco mutual fund,Invesco India Largecap-G,4,4,6.12%,70.78,39.91,17.3,Rs.100.0,Amit Nigam,1238.12,Equity,Moderate ,26.884,26.90710283745551,1
+invesco mutual fund,Invesco India Infrastructure-G,4,4,4.54%,68.22,66.96,31.7,Rs.500.0,Amit Nigam,1659.96,Equity,Very High,43.464,43.00553344636865,1
+invesco mutual fund,Invesco India Equity Savings Fund Reg-G,3,3,2.84%,16.67,22.28,10.05,Rs.500.0,Amit Nigam,264.46,Hybrid,Moderately High,15.932000000000002,15.676402239202742,2
+invesco mutual fund,Invesco India ELSS Tax Saver -G,3,2,7.09%,131.51,43.43,17.26,Rs.500.0,Amit Nigam,2990.74,Equity,Moderate ,26.276,26.607355380165423,1
+invesco mutual fund,Invesco India Aggressive Hybrid Reg-G,2,3,6.24%,22.65,39.21,16.31,Rs.500.0,Amit Nigam,522.02,Hybrid,Moderate ,25.208000000000002,25.488696271123057,1
+uti mutual fund,UTI Overnight Reg-G,3,5,0.54%,3341.45,6.76,5.64,Rs.500.0,Amit Sharma,3096.95,Debt,Low,9.96,9.910038991621825,0
+tata mutual fund,Tata Liquid Reg-G,5,3,0.57%,3892.45,7.3,5.95,Rs.500.0,Amit Somani,19852.61,Debt,Low to Moderate,8.3,8.300059349011793,0
+tata mutual fund,Tata Money Market Reg-G,4,4,0.59%,4443.64,7.61,6.21,Rs.500.0,Amit Somani,27628.33,Debt,Low to Moderate,9.528,9.5081913250541,0
+tata mutual fund,Tata Overnight Reg-G,0,3,0.53%,1293.58,6.7,5.58,Rs.500.0,Amit Somani,4941.57,Debt,Low,7.912000000000001,7.8694490409132145,0
+hdfc mutual fund,HDFC Banking & Financial Services Reg-G,3,4,7.10%,16.0,22.96,14.73,Rs.100.0,Anand Laddha,3618.22,Equity,Very High,19.076,18.996918868252703,0
+franklin templeton mutual fund,Franklin India Flexi Cap-G,0,4,5.60%,1676.01,41.26,22.05,Rs.500.0,Anand Radhakrishnan,17842.8,Equity,Moderate ,29.324,29.295460181964188,1
+franklin templeton mutual fund,Franklin India Equity Hybrid-G,3,4,3.47%,268.8,29.71,15.18,Rs.500.0,Anand Radhakrishnan,2029.67,Hybrid,Very High,21.956,22.020036458436522,1
+franklin templeton mutual fund,Franklin India Debt Hybrid A-G,4,3,1.65%,86.57,14.49,8.5,Rs.500.0,Anand Radhakrishnan,206.55,Hybrid,Moderately High,12.196000000000002,11.680034924422776,0
+franklin templeton mutual fund,Franklin India Debt Hybrid A-G Plan B,0,3,1.65%,86.57,14.49,8.5,Rs.500.0,Anand Radhakrishnan,206.55,Hybrid,Moderately High,12.196000000000002,11.680034924422776,0
+franklin templeton mutual fund,Templeton India Value-G,4,4,3.65%,759.29,40.79,25.86,Rs.500.0,Anand Radhakrishnan,2278.96,Equity,Very High,30.66,30.45451462668729,1
+franklin templeton mutual fund,Franklin India Equity Savings Reg-G,2,2,1.34%,15.74,11.72,7.85,Rs.500.0,Anand Radhakrishnan,671.3,Hybrid,Low to Moderate,9.828000000000001,9.892495876883574,2
+franklin templeton mutual fund,Franklin India ELSS Tax Saver-G,3,4,5.70%,1521.92,42.29,22.31,Rs.500.0,Anand Radhakrishnan,7143.11,Equity,Moderate ,29.84,29.381788687670916,1
+franklin templeton mutual fund,Franklin India Bluechip-G,2,2,5.45%,1039.86,33.49,14.18,Rs.500.0,Anand Radhakrishnan,8234.6,Equity,Very High,21.068,20.194971444940318,2
+hdfc mutual fund,HDFC Short Term Debt-G,4,4,0.75%,29.97,8.01,5.83,Rs.100.0,Anil Bamboli,14105.2,Debt,Moderate,9.536000000000001,9.583312702491824,0
+hdfc mutual fund,HDFC Ultra Short Term Fund Reg-G,4,4,0.57%,14.29,7.27,5.85,Rs.100.0,Anil Bamboli,14543.31,Debt,Low to Moderate,9.248,9.274808813544487,0
+hdfc mutual fund,HDFC Arbitrage Wholesale-G,4,3,0.56%,29.06,7.74,5.95,Rs.100.0,Anil Bamboli,15819.35,Hybrid,Low,8.476,8.448736004572494,0
+hdfc mutual fund,HDFC Gilt-G,3,3,1.21%,52.35,9.15,5.5,Rs.100.0,Anil Bamboli,2645.04,Debt,Moderate,8.860000000000001,8.852745551061851,0
+hdfc mutual fund,HDFC Asset Allocator FoF Reg-G,0,4,3.25%,17.15,24.01,15.56,Rs.100.0,Anil Bamboli,3243.96,Other,High,19.828000000000003,19.769648704485434,0
+hdfc mutual fund,HDFC Multi Asset-G,5,3,3.04%,68.22,23.8,13.31,Rs.100.0,Anil Bamboli,3524.55,Hybrid,High,17.844,17.822684719966478,2
+hdfc mutual fund,HDFC Dynamic PE Ratio FoF Reg-G,1,5,3.09%,39.87,21.86,15.25,Rs.100.0,Anil Bamboli,48.54,Other,High,19.844,19.229355811286087,0
+hdfc mutual fund,HDFC Equity Savings-G,4,3,1.80%,64.28,17.19,10.82,Rs.100.0,Anil Bamboli,5051.75,Hybrid,Moderately High,14.204,14.235535244091317,0
+hdfc mutual fund,HDFC Banking and PSU Debt Reg-G,4,4,0.72%,21.56,7.55,5.52,Rs.100.0,Anil Bamboli,5919.26,Debt,Moderate,9.228,9.20628159710357,0
+hdfc mutual fund,HDFC Dynamic Debt-G,3,3,1.17%,85.12,9.04,5.21,Rs.100.0,Anil Bamboli,747.88,Debt,Moderate,8.7,8.716777403462245,0
+hdfc mutual fund,HDFC Dynamic Debt-G 54EA,0,3,1.17%,85.12,9.04,5.21,Rs.100.0,Anil Bamboli,747.88,Debt,Moderate,8.7,8.716777403462245,0
+hdfc mutual fund,HDFC Dynamic Debt-G 54EB,0,3,1.17%,85.12,9.04,5.21,Rs.100.0,Anil Bamboli,747.88,Debt,Moderate,8.7,8.716777403462245,0
+hdfc mutual fund,HDFC Balanced Advantage-G,5,5,1.87%,510.83,33.79,23.75,Rs.100.0,Anil Bamboli,95391.46,Hybrid,Moderate ,28.016,28.3186618594605,1
+hdfc mutual fund,HDFC Overnight-G,3,2,0.53%,3626.68,6.68,5.56,Rs.100.0,Anil Bamboli,9577.9,Debt,Low,6.896,6.843176892239987,2
+dsp mutual fund,DSP Nifty 50 Equal Weight Index Reg-G,0,4,5.79%,26.14,37.6,19.38,Rs.100.0,Anil Ghelani,1787.49,Other,Low ,26.792,26.800507870124704,1
+dsp mutual fund,DSP Nifty 50 Index Reg-G,0,3,5.05%,24.28,27.18,14.27,Rs.100.0,Anil Ghelani,630.65,Other,Very High,19.58,19.600377722023424,2
+dsp mutual fund,DSP Nifty Next 50 Index Reg-G,0,4,5.34%,29.09,64.99,20.95,Rs.100.0,Anil Ghelani,777.91,Other,Low ,38.376,38.28655037584006,1
+aditya birla sun life mutual fund,Aditya Birla SL Flexi Cap Reg-G,0,2,7.10%,1804.24,36.75,15.92,Rs.100.0,Anil Shah,23228.33,Equity,Moderate ,23.068,23.284988538454847,2
+aditya birla sun life mutual fund,Aditya Birla SL Mid Cap Reg-G,2,2,7.74%,825.5,45.57,21.98,Rs.100.0,Anil Shah,6148.92,Equity,High ,29.020000000000003,28.934153771581503,1
+pgim india mutual fund,PGIM India Small Cap Reg-G,1,1,7.58%,16.74,37.55,16.8,Rs.1000.0,Aniruddha Naha,1578.03,Equity,Very High ,22.740000000000002,23.185193611759974,2
+pgim india mutual fund,PGIM India Flexi Cap Reg-G,0,2,6.67%,36.8,29.4,11.51,Rs.1000.0,Aniruddha Naha,6561.98,Equity,Very High,18.364,18.630276084101638,2
+nippon india mutual fund,Nippon India Arbitrage-G,0,4,0.51%,25.21,7.55,5.9,Rs.100.0,Anju Chhajer,15827.4,Hybrid,Low,9.38,9.35101894159001,0
+nippon india mutual fund,Nippon India Money Market-G,4,4,0.59%,3905.17,7.6,6.28,Rs.100.0,Anju Chhajer,17581.83,Debt,Low to Moderate,9.552,9.514975065180506,0
+nippon india mutual fund,Nippon India Liquid-G,5,3,0.57%,6033.3,7.31,5.96,Rs.100.0,Anju Chhajer,32552.32,Debt,Moderate,8.308,8.292644756775845,0
+nippon india mutual fund,Nippon IndiaLow Duration-G,4,3,0.56%,3523.72,7.05,5.64,Rs.100.0,Anju Chhajer,6261.57,Debt,Low to Moderate,8.076,8.069087059115141,0
+nippon india mutual fund,Nippon India Floating Rate-G,4,3,0.72%,42.24,7.73,5.79,Rs.100.0,Anju Chhajer,7708.05,Debt,Moderate,8.408000000000001,8.405491014679031,0
+nippon india mutual fund,Nippon India Overnight Reg-G,0,4,0.54%,131.71,6.72,5.62,Rs.100.0,Anju Chhajer,8498.93,Debt,Low,8.936,8.932869605381047,0
+uti mutual fund,UTI Mid Cap Reg-G,2,2,6.12%,324.15,41.91,20.3,Rs.500.0,Ankit Agarwal,12646.34,Equity,High ,26.884,27.1839891604842,1
+uti mutual fund,UTI Small Cap Reg-G,2,2,7.48%,26.92,40.85,23.2,Rs.500.0,Ankit Agarwal,4572.85,Equity,Very High ,27.619999999999997,27.69348018531789,1
+mirae asset mutual fund,Mirae Asset Midcap Reg-G,3,3,6.23%,37.47,41.75,22.22,Rs.500.0,Ankit Jain,17560.99,Equity,High ,28.588,28.504837574303348,1
+mirae asset mutual fund,Mirae Asset Great Consumer Reg-G,4,4,7.44%,101.32,43.99,22.78,Rs.500.0,Ankit Jain,4233.21,Equity,High ,30.708,30.49571979153433,1
+taurus mutual fund,Taurus Flexi Cap Reg-G,0,2,3.81%,240.02,36.02,17.29,Rs.500.0,Ankit Tikmany,387.17,Equity,Moderate ,23.324,23.72222282825043,2
+taurus mutual fund,Taurus Large Cap Reg-G,1,2,2.99%,161.48,36.44,16.12,Rs.500.0,Ankit Tikmany,51.98,Equity,Moderate ,23.024,23.103979320590113,2
+taurus mutual fund,Taurus Large Cap Reg-G Bonus,0,2,2.99%,161.48,36.44,16.12,Rs.500.0,Ankit Tikmany,51.98,Equity,Moderate ,23.024,23.103979320590113,2
+hsbc mutual fund,HSBC Focused Fund Reg-G,3,2,6.88%,25.64,37.43,15.66,Rs.500.0,Ankur Arora,1810.76,Equity,Very High,23.236,23.453401580718353,2
+hsbc mutual fund,HSBC Large Cap-G,3,3,5.34%,492.11,34.29,15.65,Rs.500.0,Ankur Arora,2015.36,Equity,Very High,22.976000000000003,23.098600856636182,1
+motilal oswal mutual fund,Motilal Oswal Multi Asset Reg-G,0,1,7.26%,14.31,15.24,9.94,Rs.500.0,Ankush Sood,110.21,Hybrid,Very High,11.072,11.893320758643917,2
+bandhan mutual fund,Bandhan Sterling Value Reg-G,2,3,5.56%,156.4,39.04,23.26,Rs.100.0,Anoop Bhaskar,10412.26,Equity,High ,27.92,27.610071656986385,1
+bandhan mutual fund,Bandhan Core Equity Reg-G,4,4,6.67%,138.17,55.87,26.66,Rs.100.0,Anoop Bhaskar,6552.58,Equity,Moderately High ,37.012,36.37417952449269,1
+bandhan mutual fund,Bandhan Small Cap Reg-G,3,3,10.28%,48.18,75.93,28.98,Rs.100.0,Anoop Bhaskar,7534.2,Equity,Very High ,44.964000000000006,42.88010936438244,1
+bandhan mutual fund,Bandhan Flexi Cap Reg-G,0,3,6.63%,213.11,36.79,16.69,Rs.100.0,Anoop Bhaskar,7757.92,Equity,Moderate ,24.392000000000003,24.214811246387345,1
+bandhan mutual fund,Bandhan Hybrid Equity Reg-G,3,2,5.89%,25.21,29.7,13.98,Rs.100.0,Anoop Bhaskar,788.47,Hybrid,Very High,19.472,19.41208323155331,2
+hdfc mutual fund,HDFCLow Duration-G,4,2,0.54%,54.4,7.09,5.72,Rs.100.0,Anupam Joshi,17940.45,Debt,Low to Moderate,7.1240000000000006,7.018915942808738,2
+hdfc mutual fund,HDFC Corporate Bond-G,4,4,0.81%,30.48,8.08,5.83,Rs.100.0,Anupam Joshi,30370.8,Debt,Moderate,9.564,9.610286459314006,0
+axis mutual fund,Axis Small Cap Reg-G,3,4,7.62%,108.36,39.6,22.75,Rs.100.0,Anupam Tiwari,23771.71,Equity,Very High ,28.94,28.72155388891919,1
+uti mutual fund,UTI Money Market Reg-G,4,5,0.61%,2900.52,7.59,6.27,Rs.500.0,Anurag Mittal,15066.64,Debt,Moderate,10.544,10.514496692854777,0
+uti mutual fund,UTILow Duration Reg-G,5,5,0.70%,3335.79,7.47,7.65,Rs.500.0,Anurag Mittal,2794.82,Debt,Low to Moderate,11.048,11.04052219683291,0
+uti mutual fund,UTI Corporate Bond Reg-G,4,4,0.77%,15.34,7.76,5.54,Rs.500.0,Anurag Mittal,3943.43,Debt,Moderate,9.32,9.323579359115723,0
+uti mutual fund,UTI Banking & PSU Reg-G,5,1,0.62%,20.55,7.47,7.72,Rs.500.0,Anurag Mittal,831.84,Debt,Moderate,7.0760000000000005,7.261806488268075,2
+kotak mahindra mutual fund,Kotak Focused Equity Reg-G,3,3,4.88%,25.59,36.57,16.52,Rs.100.0,Arjun Khanna,3672.18,Equity,Moderately High ,24.236,24.253545047808707,1
+axis mutual fund,Axis Nifty 100 Index Reg-G,0,3,5.00%,22.4,32.39,14.53,Rs.100.0,Ashish Naik,1695.2,Other,Very High,21.768,21.949533137544115,1
+nippon india mutual fund,Nippon India Asset Allocator FoF Reg-G,0,5,4.03%,20.08,29.85,18.56,Rs.100.0,Ashutosh Bhargava,256.13,Other,Very High,24.364,24.62113161835438,1
+edelweiss mutual fund,Edelweiss Flexi Cap Reg-G,0,4,6.38%,39.48,46.28,20.26,Rs.100.0,Ashwani Kumar Agarwalla,2340.48,Equity,Moderate ,30.616,30.525366925203205,1
+edelweiss mutual fund,Edelweiss ELSS Tax Saver Reg-G,2,2,5.78%,113.51,37.6,17.38,Rs.500.0,Ashwani Kumar Agarwalla,403.56,Equity,Moderate ,23.992,24.015621393602117,2
+jm financial mutual fund,JM Focused-G,2,4,4.06%,21.21,43.16,22.91,Rs.100.0,Asit Bhandarkar,164.83,Equity,Moderately High ,30.427999999999997,30.832146776282354,1
+jm financial mutual fund,JM Arbitrage-G,3,2,0.48%,31.06,7.22,5.57,Rs.100.0,Asit Bhandarkar,179.85,Hybrid,Low,7.116,7.084767212636263,2
+jm financial mutual fund,JM Aggressive Hybrid-G,4,5,4.81%,130.14,48.7,23.46,Rs.100.0,Asit Bhandarkar,578.07,Hybrid,Moderate ,33.864000000000004,33.73956172074379,1
+jm financial mutual fund,JM ELSS Tax Saver-G,4,4,5.89%,52.26,51.46,22.94,Rs.500.0,Asit Bhandarkar,181.35,Equity,Moderate ,33.760000000000005,33.56660992139247,1
+dsp mutual fund,DSP Flexi Cap -G,0,3,7.68%,106.95,39.11,16.44,Rs.100.0,Atul Bhole,12139.36,Equity,Moderate ,25.22,25.497210789308475,1
+aditya birla sun life mutual fund,Aditya Birla SL ELSS Tax Saver Reg-G,2,1,6.31%,61.63,35.04,13.14,Rs.500.0,Atul Penkar,16830.53,Equity,Very High,20.272,20.09533089440974,2
+aditya birla sun life mutual fund,Aditya Birla SL ELSS Tax Saver Reg-G LPS,2,1,6.31%,61.63,35.04,13.14,Rs.500.0,Atul Penkar,16830.53,Equity,Very High,20.272,20.09533089440974,2
+canara robeco mutual fund,Canara Robeco Equity Hybrid Reg-G,3,3,4.83%,358.9,28.85,13.27,Rs.1000.0,Avnish Jain,11094.59,Hybrid,Very High,19.848,19.94851975460938,2
+canara robeco mutual fund,Canara Robeco Dynamic Bond Reg-G,3,2,1.12%,28.12,8.2,5.12,Rs.1000.0,Avnish Jain,111.52,Debt,Moderate,7.327999999999999,7.313758402526822,2
+canara robeco mutual fund,Canara Robeco Dynamic Bond Reg-G Auto Repurch,0,2,1.12%,28.12,8.2,5.12,Rs.1000.0,Avnish Jain,111.52,Debt,Moderate,7.327999999999999,7.313758402526822,2
+canara robeco mutual fund,Canara Robeco Income Reg-G,3,2,0.94%,52.84,7.89,4.49,Rs.1000.0,Avnish Jain,116.18,Debt,Moderate,6.952,6.918705845587396,2
+canara robeco mutual fund,Canara Robeco Income Reg-G Auto Repurchase,0,2,0.94%,52.84,7.89,4.49,Rs.1000.0,Avnish Jain,116.18,Debt,Moderate,6.952,6.918705845587396,2
+canara robeco mutual fund,Canara Robeco Gilt Reg-G,3,3,1.36%,72.04,9.32,5.66,Rs.1000.0,Avnish Jain,117.1,Debt,Moderate,8.992,9.055720652116115,0
+canara robeco mutual fund,Canara Robeco Gilt Reg-G Auto Repurchase,0,3,1.36%,72.04,9.32,5.66,Rs.1000.0,Avnish Jain,117.1,Debt,Moderate,8.992,9.055720652116115,0
+canara robeco mutual fund,Canara Robeco Savings Reg-G,4,3,0.56%,39.7,7.15,5.67,Rs.1000.0,Avnish Jain,1218.56,Debt,Low to Moderate,8.128,8.154776481630032,0
+canara robeco mutual fund,Canara Robeco Liquid Reg-G,5,5,0.58%,2973.87,7.35,6.02,Rs.1000.0,Avnish Jain,3763.88,Debt,Low to Moderate,10.347999999999999,10.334112853460226,0
+canara robeco mutual fund,Canara Robeco Conservative Hybrid Reg-G,3,4,2.19%,92.98,13.06,7.37,Rs.1000.0,Avnish Jain,968.97,Hybrid,Moderately High,12.172,12.12231564325657,0
+canara robeco mutual fund,Canara Robeco Conservative Hybrid Reg-G Auto,0,4,2.19%,92.98,13.06,7.37,Rs.1000.0,Avnish Jain,968.97,Hybrid,Moderately High,12.172,12.12231564325657,0
+mirae asset mutual fund,Mirae Asset Equity Allocator FoF Reg-G,0,4,5.17%,25.56,35.78,17.47,Rs.500.0,Bharti Sawant,878.74,Other,Moderate ,25.3,25.46297866406597,1
+edelweiss mutual fund,Edelweiss Large Cap Reg-G,4,4,5.14%,86.8,34.03,16.52,Rs.100.0,Bhavesh Jain,1081.35,Equity,Moderate ,24.220000000000002,24.15402170892022,1
+edelweiss mutual fund,Edelweiss Balanced Advantage Reg-G,4,4,3.53%,51.05,25.55,12.6,Rs.100.0,Bhavesh Jain,12399.09,Hybrid,Very High,19.26,19.37239440795858,0
+edelweiss mutual fund,Edelweiss MSCI India Domestic & World Hea,0,2,6.03%,20.32,41.47,16.18,Rs.100.0,Bhavesh Jain,159.58,Other,High ,25.060000000000002,25.18769194763664,2
+aditya birla sun life mutual fund,Aditya Birla SL Income Reg-G,4,3,1.05%,118.63,8.34,5.47,Rs.1000.0,Bhupesh Bameta,2012.1,Debt,Moderate,8.524000000000001,8.541212770195502,0
+aditya birla sun life mutual fund,Aditya Birla SL Government Securities Reg-G,4,4,1.33%,77.46,10.01,5.79,Rs.1000.0,Bhupesh Bameta,2053.76,Debt,Moderate,10.32,10.274446251193842,0
+aditya birla sun life mutual fund,Aditya Birla SL Government Securities Reg-G I,4,4,1.33%,77.46,10.01,5.79,Rs.1000.0,Bhupesh Bameta,2053.76,Debt,Moderate,10.32,10.274446251193842,0
+pgim india mutual fund,PGIM India Hybrid Equity-G,1,1,4.50%,127.63,23.09,9.34,Rs.1000.0,Bhupesh Kalyani,218.79,Hybrid,Very High,13.972000000000001,13.685316831511086,2
+bandhan mutual fund,Bandhan Overnight Reg-G,0,3,0.53%,1307.15,6.71,5.59,Rs.100.0,Brijesh Shah,1395.36,Debt,Low,7.92,7.864404897641112,0
+aditya birla sun life mutual fund,Aditya Birla SL India GenNext Reg-G,4,3,7.08%,228.72,38.96,18.93,Rs.100.0,Chanchal Khandelwal,6010.67,Equity,High ,26.156000000000002,26.14248807309652,1
+tata mutual fund,Tata Large & Mid Cap Reg-G,3,3,6.18%,554.22,33.64,19.03,Rs.100.0,Chandraprakash Padiyar,8412.41,Equity,High ,24.068,24.049711124843466,1
+tata mutual fund,Tata Small Cap Reg-G,4,4,8.40%,43.49,50.95,28.31,Rs.100.0,Chandraprakash Padiyar,8878.32,Equity,Very High ,35.704,36.893607242100316,1
+hdfc mutual fund,HDFC Hybrid Equity-G,3,3,3.85%,117.08,21.9,14.61,Rs.100.0,Chirag Setalvad,24644.67,Hybrid,Very High,17.604,17.874585898359573,2
+hdfc mutual fund,HDFC Small Cap Reg-G,3,2,6.83%,143.95,38.03,25.93,Rs.100.0,Chirag Setalvad,33893.79,Equity,Very High,27.584000000000003,27.456253609719624,1
+hdfc mutual fund,HDFC Mid-Cap Opportunities-G,4,4,6.21%,193.57,47.9,28.94,Rs.100.0,Chirag Setalvad,75296.23,Equity,High ,34.736000000000004,35.90760266963718,1
+bandhan mutual fund,Bandhan ELSS Tax Saver Reg-G,4,4,5.35%,159.23,31.8,19.82,Rs.500.0,Daylynn Gerard Paul Pinto,7234.92,Equity,Moderate ,24.648000000000003,25.68622529476698,1
+kotak mahindra mutual fund,Kotak Savings Reg-G,4,2,0.55%,40.5,7.02,5.74,Rs.100.0,Deepak Agrawal,12644.15,Debt,Low to Moderate,7.104,7.074539042286748,2
+kotak mahindra mutual fund,Kotak Corporate Bond Standard-G,4,4,0.77%,3530.3,7.99,5.78,Rs.100.0,Deepak Agrawal,13506.55,Debt,Moderate,9.508000000000001,9.512950438729995,0
+kotak mahindra mutual fund,Kotak Bond Short-term Reg-G,4,3,0.67%,48.94,7.41,5.24,Rs.100.0,Deepak Agrawal,16078.88,Debt,Moderate,8.06,8.018425178201792,0
+kotak mahindra mutual fund,Kotak Medium Term Reg-G,4,2,1.07%,21.3,9.28,5.71,Rs.100.0,Deepak Agrawal,1681.74,Debt,Moderately High,7.996,8.03701097903712,2
+kotak mahindra mutual fund,Kotak Dynamic Bond Reg-G,4,3,1.43%,35.56,10.02,5.9,Rs.100.0,Deepak Agrawal,2712.87,Debt,Moderately High,9.368,9.416559177449795,0
+kotak mahindra mutual fund,Kotak Liquid Reg-G,5,3,0.57%,4997.93,7.29,5.94,Rs.100.0,Deepak Agrawal,33667.34,Debt,Low to Moderate,8.292000000000002,8.300059349011793,0
+kotak mahindra mutual fund,Kotak Floating Rate Reg-G,3,2,0.61%,1413.05,7.72,5.72,Rs.100.0,Deepak Agrawal,4086.92,Debt,Low to Moderate,7.3759999999999994,7.38049600446805,2
+kotak mahindra mutual fund,Kotak Overnight Reg-G,0,3,0.54%,1308.62,6.7,5.59,Rs.100.0,Deepak Agrawal,5373.04,Debt,Low,7.916,7.8694490409132145,0
+kotak mahindra mutual fund,Kotak Banking and PSU Debt Reg-G,4,3,0.80%,61.31,7.85,5.74,Rs.100.0,Deepak Agrawal,5810.97,Debt,Moderate,8.436,8.37774807969259,0
+kotak mahindra mutual fund,Kotak Credit Risk Reg-G,3,1,1.01%,27.98,9.12,5.0,Rs.100.0,Deepak Agrawal,779.46,Debt,High,6.648,6.586713946114932,2
+kotak mahindra mutual fund,KotakLow Duration Standard-G,4,1,0.50%,3148.83,6.88,5.46,Rs.100.0,Deepak Agrawal,9489.09,Debt,Low to Moderate,5.936,5.932990802159075,2
+kotak mahindra mutual fund,Kotak Money Market Reg-G,4,4,0.60%,4226.77,7.56,6.21,Rs.1000.0,Deepak Agrawal,28234.85,Debt,Low to Moderate,9.508,9.490276173502656,0
+invesco mutual fund,Invesco India Arbitrage-G,2,5,0.55%,30.27,7.73,6.31,Rs.500.0,Deepak Gupta,17361.72,Hybrid,Low,10.616,10.62246409696502,0
+axis mutual fund,Axis Strategic Bond Reg-G,4,4,0.81%,26.14,8.41,6.17,Rs.100.0,Devang Shah,1946.0,Debt,Moderately High,9.832,9.756979924400568,0
+axis mutual fund,Axis Regular Saver Reg-G,3,2,2.30%,28.92,11.21,6.18,Rs.100.0,Devang Shah,306.82,Hybrid,Moderately High,8.956000000000001,9.305956738511894,2
+axis mutual fund,Axis Arbitrage Reg-G,0,3,0.51%,17.73,7.62,5.95,Rs.100.0,Devang Shah,5578.38,Hybrid,Low,8.428,8.449518725870393,0
+axis mutual fund,Axis Corporate Debt Reg-G,4,4,0.75%,15.96,7.75,5.68,Rs.100.0,Devang Shah,5770.39,Debt,Moderate,9.372,9.34444831317343,0
+axis mutual fund,Axis Money Market Reg-G,4,4,0.60%,1346.37,7.59,6.2,Rs.1000.0,Devang Shah,15583.07,Debt,Low to Moderate,9.516,9.520536400272267,0
+axis mutual fund,Axis Credit Risk Reg-G,4,3,0.70%,20.03,7.73,5.96,Rs.1000.0,Devang Shah,436.83,Debt,Moderately High,8.476,8.47370275305778,0
+axis mutual fund,Axis Gilt Reg-G,3,4,1.41%,24.16,10.71,6.01,Rs.1000.0,Devang Shah,503.57,Debt,Moderate,10.688,10.757877601808923,0
+axis mutual fund,Axis Treasury Advantage Reg-G,4,4,0.57%,2908.22,7.34,5.88,Rs.1000.0,Devang Shah,5599.1,Debt,Low to Moderate,9.288,9.309853891289551,0
+axis mutual fund,Axis Liquid Reg-G,5,5,0.57%,2751.49,7.37,6.04,Rs.500.0,Devang Shah,28808.1,Debt,Moderate,10.364,10.411844471757906,0
+kotak mahindra mutual fund,Kotak Nifty Next 50 Index Reg-G,0,4,5.33%,21.43,64.66,20.85,Rs.100.0,Devender Singhal,340.81,Other,Low ,38.204,38.26503240751455,1
+union mutual fund,Union Overnight Reg-G,0,3,0.53%,1291.67,6.71,5.59,Rs.500.0,Devesh Thacker,245.45,Debt,Low,7.92,7.913828812190857,0
+union mutual fund,Union Arbitrage Reg-G,0,2,0.54%,13.34,7.66,5.74,Rs.500.0,Devesh Thacker,249.28,Hybrid,Low,7.36,7.389199924975583,2
+icici prudential mutual fund,ICICI Pru India Equity FOF-G,0,5,4.43%,30.87,47.26,24.44,Rs.100.0,Dharmesh Kakkad,146.3,Other,Moderate ,33.68,34.04840555584544,1
+aditya birla sun life mutual fund,Aditya Birla SL Banking & Financial Servi,4,3,7.29%,57.83,20.43,14.07,Rs.100.0,Dhaval Gala,3270.54,Equity,Very High,16.8,16.84841446390773,2
+aditya birla sun life mutual fund,Aditya Birla SL Equity Savings Reg-G,2,1,1.55%,20.9,10.99,5.97,Rs.100.0,Dhaval Shah,602.26,Hybrid,Moderate,7.784,7.427333031894122,2
+aditya birla sun life mutual fund,Aditya Birla SL Pharma & Healthcare Reg-G,0,2,5.37%,32.38,54.04,17.62,Rs.100.0,Dhaval Shah,862.61,Equity,Moderately High ,30.664,31.273227966930747,1
+aditya birla sun life mutual fund,Aditya Birla SL Retirement - The 40s Plan Reg,0,1,5.04%,18.43,26.54,11.64,Rs.500.0,Dhaval Shah,115.48,Other,Very High,16.272,16.320135124313648,2
+aditya birla sun life mutual fund,Aditya Birla SL Retirement - The 50s Plan Reg,0,1,2.13%,14.01,12.71,6.88,Rs.500.0,Dhaval Shah,26.64,Other,Moderately High,8.836,9.32694513436415,2
+aditya birla sun life mutual fund,Aditya Birla SL Retirement - The 30s Plan Reg,0,1,6.06%,20.05,33.13,14.06,Rs.500.0,Dhaval Shah,409.59,Other,Very High,19.876000000000005,19.80991849880982,2
+edelweiss mutual fund,Edelweiss Arbitrage Reg-G,0,4,0.52%,18.38,7.68,6.06,Rs.100.0,Dhawal Dalal,12304.73,Hybrid,Low,9.496,9.569525142731614,0
+edelweiss mutual fund,Edelweiss Aggressive Hybrid Reg-G,4,5,4.35%,62.86,33.94,18.82,Rs.100.0,Dhawal Dalal,2077.12,Hybrid,Moderate ,26.104,25.992806384821513,1
+edelweiss mutual fund,Edelweiss Banking and PSU Debt Reg-G,5,2,0.96%,23.1,7.92,5.4,Rs.100.0,Dhawal Dalal,271.35,Debt,Moderate,7.328,7.362582922379827,2
+edelweiss mutual fund,Edelweiss Equity Savings Reg-G,3,4,2.37%,23.97,17.28,9.55,Rs.100.0,Dhawal Dalal,471.71,Hybrid,Moderate,14.732000000000001,14.56021888939823,0
+edelweiss mutual fund,Edelweiss Money Market Reg-G,3,2,0.54%,26.88,6.79,5.18,Rs.100.0,Dhawal Dalal,721.74,Debt,Low to Moderate,6.788,6.767808184239743,2
+invesco mutual fund,Invesco India Financial Services-G,5,4,6.91%,127.93,38.72,17.08,Rs.100.0,Dhimant Kothari,978.28,Equity,High ,26.32,26.194218089783206,1
+nippon india mutual fund,Nippon India Hybrid Bond-G,2,2,1.19%,54.34,9.64,7.86,Rs.100.0,Dhrumil Shah,825.74,Hybrid,High,9.0,9.037804614599377,2
+bank of india mutual fund,Bank of India Small Cap Reg-G,4,4,8.16%,50.66,52.18,26.47,Rs.1000.0,Dhruv Bhatia,1422.3,Equity,Very High ,35.46,35.19635578424185,1
+bank of india mutual fund,Bank of India Bluechip Reg-G,2,2,3.83%,16.8,38.84,14.7,Rs.1000.0,Dhruv Bhatia,191.89,Equity,Very High,23.416,23.423625285831974,2
+sbi mutual fund,SBI Retirement Benefit - Aggressive Hybrid Pl,0,4,3.69%,19.26,25.14,16.61,Rs.500.0,Dinesh Ahuja,1544.6,Other,Moderate ,20.700000000000003,20.723662013013843,1
+sbi mutual fund,SBI Retirement Benefit - Conservative Plan Re,0,3,1.80%,13.73,12.31,8.75,Rs.500.0,Dinesh Ahuja,177.88,Other,Moderately High,11.424,11.419442764671489,0
+sbi mutual fund,SBI Magnum Income-G,5,4,0.97%,66.67,8.2,5.7,Rs.500.0,Dinesh Ahuja,1792.09,Debt,Moderately High,9.56,9.56541513767303,0
+sbi mutual fund,SBI Retirement Benefit - Aggressive Plan Reg-,0,4,4.23%,20.96,28.41,18.79,Rs.500.0,Dinesh Ahuja,2763.33,Other,Moderate ,22.880000000000003,21.347295455165025,1
+sbi mutual fund,SBI Retirement Benefit Fund - Conservative Hy,0,4,2.35%,15.28,16.22,11.05,Rs.500.0,Dinesh Ahuja,277.15,Other,High,14.908000000000001,14.653223812522299,0
+sbi mutual fund,SBI Dynamic Bond-G,4,4,1.22%,33.87,9.05,6.37,Rs.500.0,Dinesh Ahuja,3195.85,Debt,Moderate,10.168000000000001,10.014490817823372,0
+sbi mutual fund,SBI Magnum Medium Duration-G,4,4,0.84%,47.99,7.84,5.82,Rs.500.0,Dinesh Ahuja,6195.4,Debt,Moderately High,9.464,9.531342060163501,0
+sbi mutual fund,SBI Magnum Gilt-G,5,5,1.28%,62.75,9.73,6.73,Rs.500.0,Dinesh Ahuja,9500.76,Debt,Moderate,11.584,11.663401960538831,0
+sbi mutual fund,SBI Long Term Equity Reg-G,5,5,4.03%,449.6,53.05,27.28,Rs.500.0,Dinesh Balachandran,28000.03,Equity,Moderate ,37.132,37.198235630469966,1
+sbi mutual fund,SBI Contra-G,2,5,2.44%,398.91,43.16,27.84,Rs.500.0,Dinesh Balachandran,39432.5,Equity,High ,33.4,33.372178673117794,1
+sbi mutual fund,SBI Multi Asset Allocation-G,4,4,3.72%,56.47,25.52,15.27,Rs.500.0,Dinesh Balachandran,5865.8,Hybrid,Very High,20.316000000000003,20.457195562606564,0
+sundaram mutual fund,Sundaram Equity Savings-G,4,3,2.99%,68.26,18.77,11.17,Rs.100.0,Dwijendra Srivastava,926.21,Hybrid,Moderate,14.975999999999999,14.688827844033788,0
+sundaram mutual fund,Sundaram Ultra Short Duration Reg-G,3,2,0.50%,2552.57,6.28,4.96,Rs.1000.0,Dwijendra Srivastava,1908.67,Debt,Low to Moderate,6.496,6.477805576675392,2
+sundaram mutual fund,Sundaram Money Market Reg-G,3,3,0.59%,14.11,7.37,5.95,Rs.1000.0,Dwijendra Srivastava,229.86,Debt,Low to Moderate,8.328000000000001,8.278028260244103,0
+sundaram mutual fund,Sundaram Conservative Hybrid-G,3,3,2.17%,28.8,11.53,9.11,Rs.1000.0,Dwijendra Srivastava,27.24,Hybrid,Moderately High,11.256,11.12703544607898,0
+sundaram mutual fund,Sundaram Banking & PSU Reg-G,4,3,0.82%,40.34,7.85,5.42,Rs.1000.0,Dwijendra Srivastava,332.74,Debt,Moderate,8.308,8.312995987223191,0
+sundaram mutual fund,SundaramLow Duration-G,2,5,0.79%,3269.15,7.13,8.13,Rs.1000.0,Dwijendra Srivastava,337.07,Debt,Moderate,11.104000000000001,11.092273347105156,0
+sundaram mutual fund,Sundaram Liquid-G,1,3,0.57%,2181.72,7.3,5.98,Rs.1000.0,Dwijendra Srivastava,5396.04,Debt,Low to Moderate,8.312000000000001,8.312165949838201,0
+sundaram mutual fund,Sundaram Short Duration-G,3,5,1.07%,41.63,7.89,8.05,Rs.250.0,Dwijendra Srivastava,182.37,Debt,Moderate,11.376000000000001,11.182058618786188,0
+sundaram mutual fund,Sundaram Overnight Reg-G,0,3,0.53%,1303.2,6.68,5.58,Rs.250.0,Dwijendra Srivastava,660.33,Debt,Low,7.904,7.874531947425665,0
+sundaram mutual fund,Sundaram Corporate Bond Reg-G,4,3,0.85%,37.63,7.78,5.41,Rs.250.0,Dwijendra Srivastava,712.18,Debt,Moderate,8.276,8.285141295731263,0
+sundaram mutual fund,Sundaram Arbitrage Reg-G,0,1,0.49%,13.73,7.24,5.29,Rs.500.0,Dwijendra Srivastava,158.29,Hybrid,Low,6.0120000000000005,6.080418617308979,2
+mahindra manulife mutual fund,Mahindra Manulife Flexi Cap Reg-G,0,3,5.50%,16.78,34.82,18.63,Rs.500.0,Fatema Pacha,1491.53,Equity,Very High,24.380000000000003,24.438274860894136,1
+mirae asset mutual fund,Mirae Asset Large Cap Reg-G,3,2,6.10%,114.06,27.32,13.19,Rs.500.0,Gaurav Khandelwal,41592.92,Equity,Very High,18.204,18.08608992077743,2
+mirae asset mutual fund,Mirae Asset Banking and Financial Services Re,3,4,5.83%,18.99,21.06,14.86,Rs.500.0,Gaurav Kochar,1821.94,Equity,Very High,18.368,18.652487586506364,0
+mirae asset mutual fund,Mirae Asset Focused Reg-G,2,1,8.97%,26.21,24.98,10.54,Rs.500.0,Gaurav Misra,8413.24,Equity,Very High,15.208000000000002,15.136221560290464,2
+hsbc mutual fund,HSBC Managed Solutions India Conservative Reg,3,2,1.20%,20.62,10.45,5.84,Rs.500.0,Gautam Bhupal,25.33,Other,Moderately High,8.516,8.6267320133545,2
+hsbc mutual fund,HSBC ELSS Tax saver-G,3,3,6.09%,137.19,48.28,19.51,Rs.500.0,Gautam Bhupal,4421.31,Equity,Moderate ,30.116000000000003,30.10936100969393,1
+hsbc mutual fund,HSBC Managed Solutions India Growth Reg-G,4,3,3.93%,40.69,30.7,14.99,Rs.500.0,Gautam Bhupal,45.54,Other,Very High,21.276000000000003,21.149837378069268,2
+hsbc mutual fund,HSBC Managed Solutions IndiaModerate Reg-G,3,2,3.32%,35.14,25.93,12.9,Rs.500.0,Gautam Bhupal,60.65,Other,High,17.532,17.635931258853876,2
+bandhan mutual fund,Bandhan Credit Risk Reg-G,3,2,0.67%,15.5,7.09,4.96,Rs.100.0,Gautam Kaul,330.45,Debt,Moderately High,6.82,6.704817275219405,2
+bandhan mutual fund,Bandhan Money Manager Reg-G,3,2,0.57%,37.95,6.86,5.48,Rs.100.0,Gautam Kaul,7518.29,Debt,Low to Moderate,6.936,6.890396466569011,2
+hdfc mutual fund,HDFC Large and Mid Cap Reg-G,3,4,5.81%,350.62,42.96,24.92,Rs.100.0,Gopal Agrawal,23712.31,Equity,Very High,31.152,31.383219589568434,1
+hdfc mutual fund,HDFC Capital Builder Value-G,2,2,6.25%,755.05,45.05,21.33,Rs.100.0,Gopal Agrawal,7733.37,Equity,Moderate ,28.552,28.619895608259338,1
+taurus mutual fund,Taurus Banking & Financial Services Reg-G,3,3,3.87%,50.96,19.34,13.95,Rs.500.0,Hardik Shah,11.09,Equity,Very High,16.316000000000003,16.421533626270932,2
+taurus mutual fund,Taurus Mid Cap Reg-G,3,2,4.46%,131.5,35.18,21.58,Rs.500.0,Hardik Shah,140.33,Equity,High ,24.704,24.758555450424225,1
+kotak mahindra mutual fund,Kotak Infrastructure and Economic Reform Stan,3,5,5.19%,71.54,54.56,31.1,Rs.100.0,Harish Krishnan,2446.66,Equity,High ,39.264,39.28748266811918,1
+kotak mahindra mutual fund,Kotak Bluechip Reg-G,4,4,5.17%,579.34,33.76,15.42,Rs.100.0,Harish Krishnan,9465.07,Equity,Very High,23.672,23.579869085164017,1
+kotak mahindra mutual fund,Kotak Equity Opportunities Reg-G,4,4,4.87%,348.69,41.71,21.08,Rs.100.0,Harsha Upadhyaya,25292.75,Equity,Moderately High ,29.116,29.29027658602827,1
+kotak mahindra mutual fund,Kotak Flexicap Reg-G,0,3,4.63%,83.97,34.46,16.57,Rs.100.0,Harsha Upadhyaya,52955.61,Equity,Moderate ,23.412,23.32526830153136,1
+kotak mahindra mutual fund,Kotak ELSS Tax Saver Reg-G,4,4,4.68%,120.49,37.06,19.47,Rs.500.0,Harsha Upadhyaya,6297.77,Equity,Moderate ,26.612000000000002,26.876218882372648,1
+bandhan mutual fund,Bandhan Liquid Reg-G,5,3,0.57%,2987.56,7.29,5.97,Rs.100.0,Harshal Joshi,12792.36,Debt,Low to Moderate,8.304,8.303552379434636,0
+bandhan mutual fund,Bandhan All Seasons Bond Reg-G,4,3,0.78%,41.11,7.76,5.39,Rs.100.0,Harshal Joshi,162.25,Other,Moderate,8.26,8.262867059757177,0
+bandhan mutual fund,Bandhan Ultra Short Term Reg-G,4,3,0.57%,14.36,7.26,5.85,Rs.100.0,Harshal Joshi,3686.68,Debt,Low to Moderate,8.244,8.235754132024518,0
+bandhan mutual fund,BandhanLow Duration Reg-G,4,3,0.56%,36.33,7.16,5.65,Rs.100.0,Harshal Joshi,5868.0,Debt,Low to Moderate,8.124,8.090326478433566,0
+bandhan mutual fund,Bandhan Arbitrage Regular-G,2,3,0.54%,30.79,7.6,5.89,Rs.100.0,Harshal Joshi,6722.9,Hybrid,Low,8.396,8.402860552157488,0
+kotak mahindra mutual fund,Kotak Equity Arbitrage Reg-G,4,5,0.54%,35.52,7.92,6.23,Rs.100.0,Hiten Shah,53423.15,Hybrid,Low,10.66,10.629000993787045,0
+icici prudential mutual fund,ICICI Pru Large & Mid Cap-G,4,5,6.70%,1004.49,46.13,26.09,Rs.100.0,Ihab Dalwai,16586.84,Equity,High ,33.888000000000005,33.52062079734775,1
+icici prudential mutual fund,ICICI Pru Infrastructure-G,4,4,5.70%,198.46,58.05,37.12,Rs.100.0,Ihab Dalwai,6142.92,Equity,Very High,42.068,41.3598859410245,1
+lic mutual fund,LIC MF Banking & Financial Services Reg-G,3,1,6.23%,20.27,13.7,11.16,Rs.1000.0,Jaiprakash Toshniwal,292.73,Equity,Very High,10.944,10.761694402450562,2
+lic mutual fund,LIC MF Nifty 50 Index-G,2,2,5.01%,139.94,26.45,13.66,Rs.1000.0,Jaiprakash Toshniwal,332.68,Other,Very High,18.044,18.05427477609858,2
+lic mutual fund,LIC MF BSE Sensex Index-G,1,1,4.92%,155.02,23.03,12.75,Rs.1000.0,Jaiprakash Toshniwal,86.45,Other,Very High,15.312000000000001,15.693816558438074,2
+dsp mutual fund,DSP Top 100 Equity Reg-G,1,3,5.12%,472.14,38.6,16.06,Rs.100.0,Jay Kothari,4456.73,Equity,Moderate ,24.864,25.201240042465983,1
+dsp mutual fund,DSP Value Reg-G,1,2,4.50%,21.25,39.1,16.71,Rs.100.0,Jay Kothari,923.93,Equity,High ,24.324,24.812260793731088,2
+lic mutual fund,LIC MF Nifty Next 50 Index-G,4,4,5.28%,55.93,64.27,20.55,Rs.1000.0,Jayesh Dinesh Shah,98.86,Other,Low ,37.928,38.18118640919181,1
+axis mutual fund,Axis Focused Reg-G,2,1,8.29%,56.82,32.85,6.67,Rs.100.0,Jinesh Gopani,14155.62,Equity,Very High,16.808,17.825170095411664,2
+axis mutual fund,Axis Growth Opportunities Reg-G,3,3,5.08%,33.14,41.08,17.37,Rs.100.0,Jinesh Gopani,14161.13,Equity,Moderately High ,26.38,26.359378071030932,1
+axis mutual fund,Axis ELSS Tax Saver-G,2,1,6.55%,98.48,35.66,9.29,Rs.500.0,Jinesh Gopani,38422.94,Equity,Very High,18.98,18.817706987394924,2
+baroda bnp paribas mutual fund,Baroda BNP Paribas Aggressive Hybrid Reg-G,4,4,3.59%,28.07,31.31,15.21,Rs.500.0,Jitendra Sriram,1170.76,Hybrid,Very High,22.608,22.17843818852086,1
+baroda bnp paribas mutual fund,Baroda BNP Paribas Large Cap-G,4,4,4.10%,230.87,40.49,18.31,Rs.500.0,Jitendra Sriram,2342.57,Equity,Moderate ,27.520000000000003,27.19118829175315,1
+dsp mutual fund,DSPLow Duration Reg-G,3,3,0.57%,18.68,7.16,5.7,Rs.100.0,Karan Mundra,4811.12,Debt,Low to Moderate,8.144,8.185100308345183,0
+uti mutual fund,UTI Large Cap Reg-G,3,3,6.05%,283.1,29.77,13.24,Rs.500.0,Karthikraj Lakshmanan,13809.22,Equity,Very High,20.204,20.237181721798144,2
+uti mutual fund,UTI Large Cap Reg-G Canserve,0,3,6.05%,283.1,29.77,13.24,Rs.500.0,Karthikraj Lakshmanan,13809.22,Equity,Very High,20.204,20.237181721798144,2
+aditya birla sun life mutual fund,Aditya Birla SL Active Debt Multi Manager FoF,4,4,0.94%,35.28,8.03,5.46,Rs.100.0,Kaustubh Gupta,21.82,Other,Moderate,9.396,9.356166459724083,0
+aditya birla sun life mutual fund,Aditya Birla SL Corporate Bond Reg-G,5,4,0.83%,105.75,8.24,6.1,Rs.100.0,Kaustubh Gupta,21436.88,Debt,Moderate,9.736,9.817316028248014,0
+aditya birla sun life mutual fund,Aditya Birla SL Floating Rate Reg-G,4,5,0.56%,326.39,7.54,6.16,Rs.1000.0,Kaustubh Gupta,12671.53,Debt,Low to Moderate,10.48,10.486623012317711,0
+aditya birla sun life mutual fund,Aditya Birla SL Money Manager Reg-G,4,5,0.60%,348.23,7.63,6.26,Rs.1000.0,Kaustubh Gupta,27664.75,Debt,Moderate,10.556000000000001,10.518017219150238,0
+aditya birla sun life mutual fund,Aditya Birla SL Short Term Reg-G,4,4,0.73%,44.57,7.66,5.81,Rs.1000.0,Kaustubh Gupta,8315.2,Debt,Moderate,9.388,9.349356021633751,0
+aditya birla sun life mutual fund,Aditya Birla SL Overnight Reg-G,0,3,0.53%,1325.06,6.69,5.59,Rs.1000.0,Kaustubh Gupta,8823.35,Debt,Low,7.912000000000001,7.856431157436716,0
+aditya birla sun life mutual fund,Aditya Birla SL Banking & PSU Debt Reg-G,5,4,0.73%,343.8,7.66,5.64,Rs.1000.0,Kaustubh Gupta,9406.52,Debt,Moderate,9.32,9.246496543477285,0
+aditya birla sun life mutual fund,Aditya Birla SLLow Duration Reg-G,4,2,0.51%,619.46,6.84,5.57,Rs.500.0,Kaustubh Gupta,10861.44,Debt,Moderate,6.964,6.944844926953369,2
+icici prudential mutual fund,ICICI Pru Equity Savings-G,2,4,1.52%,21.44,10.4,8.85,Rs.100.0,Kayzad Eghlim,11403.31,Hybrid,Low to Moderate,11.7,11.474922992906402,0
+icici prudential mutual fund,ICICI Pru Nifty 50 Index -G,3,3,5.07%,253.25,27.27,14.29,Rs.100.0,Kayzad Eghlim,11525.06,Other,Very High,19.624000000000002,19.67013906179017,2
+icici prudential mutual fund,ICICI Pru Nifty 100Low Volatility 30 ETF FOF,0,3,6.93%,19.02,39.22,16.76,Rs.100.0,Kayzad Eghlim,1285.12,Other,Low ,25.392000000000003,25.543972535835707,1
+icici prudential mutual fund,ICICI Pru BSE Sensex Index-G,0,2,5.00%,26.88,24.02,13.5,Rs.100.0,Kayzad Eghlim,1722.85,Other,Very High,17.008000000000003,17.173268752608553,2
+icici prudential mutual fund,ICICI Pru Nifty Next 50 Index-G,5,4,5.34%,66.37,65.16,20.76,Rs.100.0,Kayzad Eghlim,6863.18,Other,Low ,38.368,38.214771982510484,1
+icici prudential mutual fund,ICICI Pru BHARAT 22 FOF-G,0,5,0.91%,33.99,55.62,39.47,Rs.1000.0,Kayzad Eghlim,2040.16,Other,Very High,43.036,40.79058441476014,1
+icici prudential mutual fund,ICICI Pru Equity Arbitrage-G,3,4,0.58%,32.52,7.63,5.97,Rs.1000.0,Kayzad Eghlim,24111.41,Hybrid,Low,9.44,9.393306908968423,0
+dsp mutual fund,DSP Equity Savings Reg-G,3,3,2.39%,20.97,16.93,9.07,Rs.100.0,Kedar Karnik,1735.4,Hybrid,Moderate,13.4,13.299309571570415,0
+dsp mutual fund,DSP Liquidity Reg-G,4,3,0.58%,3528.99,7.34,5.99,Rs.100.0,Kedar Karnik,18699.2,Debt,Low to Moderate,8.332,8.286151394982026,0
+dsp mutual fund,DSP Overnight Reg-G,0,4,0.54%,1315.1,6.73,5.63,Rs.100.0,Kedar Karnik,2131.74,Debt,Low,8.944,8.958203147852247,0
+dsp mutual fund,DSP Ultra Short Reg-G,3,3,0.54%,3218.93,6.95,5.46,Rs.100.0,Kedar Karnik,2845.84,Debt,Low to Moderate,7.964,7.983494140057985,0
+dsp mutual fund,DSP Savings-G,4,3,0.58%,49.7,7.3,5.75,Rs.100.0,Kedar Karnik,4511.94,Debt,Low to Moderate,8.22,8.158159019431782,0
+dsp mutual fund,DSP Arbitrage Reg-G,0,3,0.52%,14.18,7.49,5.82,Rs.100.0,Kedar Karnik,5945.37,Hybrid,Low,8.324000000000002,8.294725676074561,0
+dsp mutual fund,DSP Floater Reg-G,3,1,0.88%,12.36,8.86,6.14,Rs.100.0,Kedar Karnik,804.65,Debt,Moderate,7.0,6.993979309416029,2
+lic mutual fund,LIC MF Gold ETF FoF-G,0,3,3.80%,19.44,23.72,14.57,Rs.1000.0,Khozem Zakiuddin Jabalpurwala,57.46,Other,High,18.316,18.36434796226146,2
+nippon india mutual fund,Nippon India Strategic Debt-G,1,3,0.79%,14.48,7.69,5.15,Rs.100.0,Kinjal Desai,117.33,Debt,Moderately High,8.136000000000001,8.14440509324642,0
+hdfc mutual fund,HDFC NIFTY50 Equal Weight Index Reg-G,0,4,5.80%,18.04,37.81,19.3,Rs.100.0,Krishan Kumar Daga,1404.07,Other,Low ,26.844,26.864501463591584,1
+hdfc mutual fund,HDFC Index Nifty 50,3,3,5.06%,238.7,27.26,14.29,Rs.100.0,Krishan Kumar Daga,18127.0,Other,Very High,19.62,19.625635849971438,2
+hdfc mutual fund,HDFC Gold-G,0,4,3.69%,22.28,23.2,14.49,Rs.100.0,Krishan Kumar Daga,2294.93,Other,Very High,19.076,18.864608656227283,0
+hdfc mutual fund,HDFC Index Fund - BSE Sensex,3,2,4.99%,762.43,23.86,13.45,Rs.100.0,Krishan Kumar Daga,7774.9,Other,Very High,16.924,16.919011535546446,2
+mahindra manulife mutual fund,Mahindra Manulife Focused Reg-G,4,4,5.07%,27.89,47.22,22.97,Rs.500.0,Krishna Sanghvi,1784.83,Equity,Moderately High ,32.076,32.02935451968798,1
+invesco mutual fund,Invesco IndiaLow Duration-G,4,3,0.57%,3563.24,7.28,5.65,Rs.100.0,Krishna Venkat Cheemalapati,1405.99,Debt,Low to Moderate,8.172,8.25759675420704,0
+invesco mutual fund,Invesco India Corporate Bond-G,3,3,0.83%,2976.64,7.88,5.32,Rs.100.0,Krishna Venkat Cheemalapati,4053.26,Debt,Moderate,8.280000000000001,8.18831129108727,0
+invesco mutual fund,Invesco India Overnight Reg-G,0,4,0.54%,1242.89,6.77,5.63,Rs.100.0,Krishna Venkat Cheemalapati,506.9,Debt,Low,8.96,8.996217221239561,0
+invesco mutual fund,Invesco India Gilt-G,3,3,1.49%,2709.77,10.96,5.99,Rs.100.0,Krishna Venkat Cheemalapati,966.15,Debt,Moderate,9.780000000000001,9.576189601771677,0
+invesco mutual fund,Invesco India Banking and PSU-G,3,1,0.86%,2127.15,8.13,4.72,Rs.1000.0,Krishna Venkat Cheemalapati,100.61,Debt,Moderate,6.140000000000001,6.088625606304936,2
+invesco mutual fund,Invesco India Credit Risk Reg-G,3,3,0.72%,1784.07,8.94,6.54,Rs.1000.0,Krishna Venkat Cheemalapati,140.33,Debt,Moderately High,9.192,9.07346589891793,0
+invesco mutual fund,Invesco India Medium Duration Reg-G,2,2,0.82%,1164.47,7.76,4.73,Rs.1000.0,Krishna Venkat Cheemalapati,242.91,Debt,Moderate,6.996,6.991710868117245,2
+invesco mutual fund,Invesco India Short Duration-G,3,2,0.72%,3347.01,7.79,4.98,Rs.1000.0,Krishna Venkat Cheemalapati,394.53,Debt,Moderate,7.1080000000000005,6.991424063292115,2
+invesco mutual fund,Invesco India Money Market-G,4,3,0.58%,2872.8,7.32,5.69,Rs.1000.0,Krishna Venkat Cheemalapati,4530.33,Debt,Low to Moderate,8.204,8.234906802421484,0
+invesco mutual fund,Invesco India Gold ETF FoF-G,0,3,3.47%,21.09,22.54,14.42,Rs.500.0,Krishna Venkat Cheemalapati,77.35,Other,High,17.784000000000002,17.649132091462384,2
+aditya birla sun life mutual fund,Aditya Birla SL Pure Value Reg-G,2,1,4.75%,133.05,42.11,22.45,Rs.100.0,Kunal Sangoi,6732.46,Equity,High ,26.824,26.934600730753772,2
+dsp mutual fund,DSP Short Term-G,4,3,0.67%,43.71,7.33,5.15,Rs.100.0,Laukik Bagwe,3219.46,Debt,Moderate,7.992000000000001,7.936286320571203,0
+dsp mutual fund,DSP Dynamic Asset Allocation Reg-G,2,2,2.46%,26.49,20.92,9.9,Rs.100.0,Laukik Bagwe,3237.18,Hybrid,Moderate,14.328000000000001,14.183002835062672,2
+sbi mutual fund,SBI Credit Risk-G,4,3,0.62%,42.74,7.91,6.45,Rs.500.0,Lokesh Mallya,2370.34,Debt,High,8.744,8.652380434714907,0
+aditya birla sun life mutual fund,Aditya Birla SL Arbitrage Reg-G,0,3,0.51%,25.18,7.59,5.87,Rs.100.0,Lovelish Solanki,13315.96,Hybrid,Low,8.384,8.411083812939978,0
+aditya birla sun life mutual fund,Aditya Birla SL Nifty Smallcap 50 Index Reg-G,0,1,9.74%,22.38,60.2,19.67,Rs.100.0,Lovelish Solanki,258.53,Other,Very High ,32.94800000000001,35.452302739510685,1
+aditya birla sun life mutual fund,Aditya Birla SL Nifty Midcap 150 Index Reg-G,0,3,5.41%,24.48,47.26,25.83,Rs.100.0,Lovelish Solanki,273.49,Other,Very High,32.236000000000004,32.223009063423405,1
+aditya birla sun life mutual fund,Aditya Birla SL Nifty 50 Equal Weight Index R,0,4,5.79%,18.37,37.47,19.06,Rs.100.0,Lovelish Solanki,319.29,Other,Low ,26.612,26.217840569146883,1
+aditya birla sun life mutual fund,Aditya Birla SL Gold Reg-G,0,1,2.26%,21.6,19.96,13.57,Rs.100.0,Lovelish Solanki,371.06,Other,High,14.412000000000003,15.00342717823022,2
+aditya birla sun life mutual fund,Aditya Birla SL Balanced Advantage Reg-G,3,3,3.34%,102.92,22.71,12.16,Rs.100.0,Lovelish Solanki,7560.12,Hybrid,Very High,16.948000000000004,16.917918626750325,2
+aditya birla sun life mutual fund,Aditya Birla SL Nifty 50 Index Reg-G,2,2,5.05%,254.93,27.13,14.11,Rs.100.0,Lovelish Solanki,989.85,Other,Very High,18.496000000000002,18.537284287803764,2
+mirae asset mutual fund,Mirae Asset Money Market Reg-G,3,2,0.60%,1186.87,7.38,5.76,Rs.500.0,Mahendra Kumar Jajoo,1235.28,Debt,Low to Moderate,7.256,7.267550301631887,2
+mirae asset mutual fund,Mirae Asset Equity Savings Reg-G,4,4,2.70%,19.41,17.42,10.31,Rs.500.0,Mahendra Kumar Jajoo,1279.19,Hybrid,Moderately High,15.092000000000002,15.103337848720868,0
+mirae asset mutual fund,Mirae AssetLow Duration Reg-G,3,3,0.56%,2129.31,7.12,5.48,Rs.500.0,Mahendra Kumar Jajoo,1430.22,Debt,Moderate,8.040000000000001,8.008644296393452,0
+mirae asset mutual fund,Mirae Asset Dynamic Bond Reg-G,2,2,0.57%,15.23,6.92,4.28,Rs.500.0,Mahendra Kumar Jajoo,147.49,Debt,Low to Moderate,6.48,6.549914778617953,2
+mirae asset mutual fund,Mirae Asset Ultra Short Duration Reg-G,4,5,0.60%,1232.44,7.49,6.05,Rs.500.0,Mahendra Kumar Jajoo,1611.12,Debt,Moderate,10.416,10.359488748291817,0
+mirae asset mutual fund,Mirae Asset Arbitrage Reg-G,0,3,0.50%,12.38,7.6,5.83,Rs.500.0,Mahendra Kumar Jajoo,2560.2,Hybrid,Low,8.372,8.397606412562567,0
+mirae asset mutual fund,Mirae Asset Short Duration Reg-G,2,3,0.68%,14.76,7.23,5.12,Rs.500.0,Mahendra Kumar Jajoo,339.54,Debt,Moderate,7.940000000000001,7.880542162338093,0
+mirae asset mutual fund,Mirae Asset Corporate Bond Reg-G,2,2,0.68%,11.95,7.33,5.07,Rs.500.0,Mahendra Kumar Jajoo,49.21,Debt,Moderate,6.960000000000001,6.962938941055691,2
+mirae asset mutual fund,Mirae Asset Banking and PSU Reg-G,3,2,0.63%,12.15,7.35,5.09,Rs.500.0,Mahendra Kumar Jajoo,58.02,Debt,Moderate,6.976,6.962938941055691,2
+mirae asset mutual fund,Mirae Asset Aggressive Hybrid Reg-G,3,3,5.11%,32.16,27.26,13.66,Rs.500.0,Mahendra Kumar Jajoo,9380.6,Hybrid,Very High,19.368000000000002,19.568938135957488,2
+hsbc mutual fund,HSBC Overnight Reg-G,0,3,0.53%,1281.56,6.71,5.59,Rs.1000.0,Mahesh A Chhabria,2445.22,Debt,Low,7.92,7.881448703178074,0
+hsbc mutual fund,HSBC Ultra Short Duration Reg-G,3,4,0.57%,1277.25,7.25,5.89,Rs.1000.0,Mahesh A Chhabria,3384.84,Debt,Low to Moderate,9.256,9.25740526221853,0
+hsbc mutual fund,HSBC Banking and PSU Debt-G,3,2,0.55%,22.73,7.03,4.51,Rs.1000.0,Mahesh A Chhabria,4600.16,Debt,Low to Moderate,6.6160000000000005,6.622994243230253,2
+aditya birla sun life mutual fund,Aditya Birla SL Infrastructure Reg-G,2,1,4.00%,100.82,47.53,26.85,Rs.100.0,Mahesh Patil,1252.41,Equity,High ,30.752000000000002,31.340393162244997,1
+aditya birla sun life mutual fund,Aditya Birla SL Frontline Equity Reg-G,4,3,5.48%,534.17,33.48,16.42,Rs.100.0,Mahesh Patil,30606.69,Equity,Moderately High ,22.96,22.815929465547196,1
+aditya birla sun life mutual fund,Aditya Birla SL Frontline Equity Reg-G Trigge,4,3,5.48%,534.17,33.48,16.42,Rs.100.0,Mahesh Patil,30606.69,Equity,Moderately High ,22.96,22.815929465547196,1
+aditya birla sun life mutual fund,Aditya Birla SL Focused Reg-G,3,2,5.76%,142.64,36.17,16.14,Rs.100.0,Mahesh Patil,8023.04,Equity,Moderately High ,22.924000000000003,23.19642701096725,2
+icici prudential mutual fund,ICICI Pru Regular Gold Savings (FOF)-G,0,3,3.73%,23.06,23.47,14.49,Rs.100.0,Manish Banthia,1067.06,Other,High,18.184,17.90680572499123,2
+icici prudential mutual fund,ICICI Pru Retirement - Pure Debt Plan-G,0,2,0.68%,14.23,7.03,4.93,Rs.100.0,Manish Banthia,119.53,Other,Moderate,6.784000000000001,6.671129909646547,2
+icici prudential mutual fund,ICICI Pru Debt Management (FOF)-G,5,4,0.71%,42.09,8.22,5.96,Rs.100.0,Manish Banthia,128.12,Other,Moderately High,9.672,9.737087945920305,0
+icici prudential mutual fund,ICICI Pru All Seasons Bond-G,5,5,0.86%,34.61,8.27,6.28,Rs.100.0,Manish Banthia,12845.9,Debt,Moderately High,10.82,10.822874999587563,0
+icici prudential mutual fund,ICICI Pru Regular Savings-G,5,4,1.87%,71.97,15.06,9.84,Rs.100.0,Manish Banthia,3380.2,Hybrid,High,13.96,13.89549179934214,0
+icici prudential mutual fund,ICICI Pru Retirement Fund - Hybrid Conservati,0,3,2.06%,16.48,15.4,9.17,Rs.100.0,Manish Banthia,64.86,Other,Moderately High,12.828,12.523774759493051,0
+icici prudential mutual fund,ICICI Pru Retirement - Hybrid Aggressive Plan,0,4,5.14%,25.36,40.97,20.05,Rs.100.0,Manish Banthia,642.23,Other,Moderate ,28.408,28.32418825396795,1
+icici prudential mutual fund,ICICI Pru Credit Risk-G,4,2,0.79%,29.73,8.62,6.63,Rs.100.0,Manish Banthia,6569.99,Debt,Low,8.1,8.090424561748588,2
+icici prudential mutual fund,ICICI Pru Retirement - Pure Equity Plan-G,0,5,6.21%,31.28,47.62,27.03,Rs.100.0,Manish Banthia,979.54,Other,Moderate ,34.86,34.61917810241834,1
+icici prudential mutual fund,ICICI Pru Ultra Short Term-G,5,3,0.57%,26.12,7.26,5.91,Rs.1000.0,Manish Banthia,14967.8,Debt,Moderate,8.268,8.300513341490632,0
+icici prudential mutual fund,ICICI Pru Short Term-G,4,4,0.66%,56.36,7.7,6.16,Rs.1000.0,Manish Banthia,19611.12,Debt,Moderate,9.544,9.475164181493525,0
+icici prudential mutual fund,ICICI Pru Income Optimizer (FOF)-G,3,5,1.98%,59.92,15.1,11.33,Rs.1000.0,Manish Banthia,274.68,Other,Moderately High,15.572,15.256504037948929,0
+icici prudential mutual fund,ICICI Pru Bond-G,4,4,0.95%,37.65,8.67,5.87,Rs.1000.0,Manish Banthia,2942.22,Debt,Moderate,9.816,9.835514580618483,0
+icici prudential mutual fund,ICICI Pru Medium Term Bond-G,4,4,0.82%,41.86,7.83,5.98,Rs.1000.0,Manish Banthia,6010.66,Debt,Moderately High,9.524000000000001,9.546976168378455,0
+nippon india mutual fund,Nippon India Passive Flexicap FoF Reg-G,0,3,5.14%,21.57,36.52,17.23,Rs.100.0,Manish Gunwani,252.11,Other,Moderate ,24.500000000000004,24.37939482625042,1
+nippon india mutual fund,Nippon India Growth-G,4,4,6.58%,4187.22,51.68,27.44,Rs.100.0,Manish Gunwani,33706.68,Equity,High ,35.648,35.89055095184338,1
+nippon india mutual fund,Nippon India Flexi Cap Reg-G,0,3,5.60%,17.52,36.95,18.65,Rs.100.0,Manish Gunwani,8454.96,Equity,Very High,25.240000000000002,25.33093947554105,1
+nippon india mutual fund,Nippon India Balanced Advantage-G,3,3,3.09%,174.18,24.89,12.79,Rs.100.0,Manish Gunwani,8802.55,Hybrid,Very High,18.072000000000003,18.127292351860014,2
+lic mutual fund,LIC MF Short Duration Reg-G,2,1,0.69%,13.7,7.28,4.83,Rs.1000.0,Marzban Irani,108.26,Debt,Moderate,5.844,5.89352365944548,2
+lic mutual fund,LIC MF Banking & PSU-G,3,3,0.74%,32.6,7.52,5.26,Rs.1000.0,Marzban Irani,1540.53,Debt,Moderate,8.112,8.08075443951198,0
+lic mutual fund,LIC MF Medium to Long Duration -G,3,3,0.98%,67.88,8.16,5.5,Rs.1000.0,Marzban Irani,174.38,Debt,Moderate,8.464,8.507026654558327,0
+lic mutual fund,LIC MF Gilt PF-G,3,2,1.26%,32.87,8.87,5.18,Rs.1000.0,Marzban Irani,72.22,Debt,Moderate,7.62,7.600885035354577,2
+lic mutual fund,LIC MF Gilt-G,3,2,1.26%,56.92,8.87,5.18,Rs.1000.0,Marzban Irani,72.22,Debt,Moderate,7.62,7.611038786790379,2
+baroda bnp paribas mutual fund,Baroda BNP Paribas Liquid-G,5,3,0.57%,2844.23,7.28,6.01,Rs.500.0,Mayank Prakash,11399.65,Debt,Low to Moderate,8.316,8.458598433044443,0
+baroda bnp paribas mutual fund,Baroda BNP Paribas Ultra Short Duration Reg-G,4,4,0.59%,1454.46,7.31,6.13,Rs.500.0,Mayank Prakash,1385.73,Debt,Low to Moderate,9.376,9.326859569587432,0
+baroda bnp paribas mutual fund,Baroda BNP Paribas Dynamic Bond-G,3,3,0.99%,43.34,8.64,5.82,Rs.500.0,Mayank Prakash,152.5,Debt,Moderate,8.784,8.758590924428676,0
+baroda bnp paribas mutual fund,Baroda BNP Paribas Gilt-G,3,3,1.11%,39.96,9.2,5.5,Rs.500.0,Mayank Prakash,1631.93,Debt,Moderate,8.88,8.855885785888866,0
+baroda bnp paribas mutual fund,Baroda BNP Paribas Corporate Bond-G,2,2,0.88%,25.63,7.95,5.0,Rs.500.0,Mayank Prakash,168.38,Debt,Moderate,7.18,7.200681711838547,2
+baroda bnp paribas mutual fund,Baroda BNP ParibasLow Duration-G,3,3,0.54%,37.85,6.85,5.35,Rs.500.0,Mayank Prakash,214.74,Debt,Low to Moderate,7.880000000000001,7.861351418230934,0
+baroda bnp paribas mutual fund,Baroda BNP Paribas Equity Savings Reg-G,3,3,2.76%,16.04,17.1,9.44,Rs.500.0,Mayank Prakash,245.08,Hybrid,Moderate,13.616,13.802023708984677,0
+baroda bnp paribas mutual fund,Baroda BNP Paribas Money Market Reg-G,2,2,0.58%,1298.56,7.12,5.71,Rs.500.0,Mayank Prakash,324.89,Debt,Low to Moderate,7.132000000000001,7.11919273984275,2
+360 one mutual fund,360 ONE Focused Equity Reg-G,4,4,4.44%,49.5,37.54,18.51,Rs.1000.0,Mayur Patel,8104.27,Equity,Very High,26.42,26.20918099906165,1
+nippon india mutual fund,Nippon India Equity Hybrid-G,2,3,4.93%,104.48,29.88,17.22,Rs.100.0,Meenakshi Dawar,3893.74,Hybrid,Moderate ,21.84,21.83970708887425,1
+nippon india mutual fund,Nippon India Value-G,4,4,6.38%,233.64,53.51,24.98,Rs.100.0,Meenakshi Dawar,8751.52,Equity,Very High,35.396,35.42989696648778,1
+tata mutual fund,Tata India Pharma & HealthCare Reg-G,0,4,6.21%,31.54,54.71,20.14,Rs.100.0,Meeta Shetty,1183.18,Equity,High ,33.94,33.625790018616115,1
+tata mutual fund,Tata Focused Equity Reg-G,3,3,6.83%,24.96,39.94,18.38,Rs.100.0,Meeta Shetty,1912.03,Equity,Moderately High ,26.328,26.372208927699873,1
+nippon india mutual fund,Nippon India Nifty Midcap 150 Index Reg-G,0,3,5.44%,25.1,46.87,25.7,Rs.100.0,Mehul Dama,1585.14,Other,Very High,32.028000000000006,32.12383722042561,1
+nippon india mutual fund,Nippon India Nifty Smallcap 250 Index Reg-G,0,2,7.87%,35.91,51.75,25.21,Rs.100.0,Mehul Dama,1789.7,Other,Very High,32.784000000000006,32.70247262604821,1
+nippon india mutual fund,Nippon India Index Nifty 50-G,2,2,5.05%,42.72,26.97,13.87,Rs.100.0,Mehul Dama,1904.76,Other,Very High,18.336,18.371593280850696,2
+nippon india mutual fund,Nippon India Gold Savings-G,0,2,3.74%,28.54,23.14,14.38,Rs.100.0,Mehul Dama,1906.77,Other,High,17.008000000000003,17.02148835144996,2
+nippon india mutual fund,Nippon India Nifty Next 50 Junior BeES FoF Re,0,4,5.22%,27.77,65.18,21.0,Rs.100.0,Mehul Dama,492.76,Other,Low ,38.472,38.28655037584006,1
+nippon india mutual fund,Nippon India Index BSE Sensex-G,2,2,4.97%,41.91,23.63,13.18,Rs.100.0,Mehul Dama,745.02,Other,Very High,16.724,16.781876220465815,2
+nippon india mutual fund,Nippon India Nifty 50 Value 20 Index Reg-G,0,1,5.57%,20.45,38.08,18.54,Rs.100.0,Mehul Dama,845.87,Other,Very High,23.648,24.183913315217275,2
+360 one mutual fund,360 ONE Liquid Reg-G,0,2,0.57%,1906.35,7.2,5.88,Rs.1000.0,Milan Mody,784.74,Debt,Low to Moderate,7.232,7.13221178194659,2
+360 one mutual fund,360 ONE Dynamic Bond Reg-G,4,4,1.02%,21.09,9.44,6.27,Rs.1000.0,Milan Mody,789.78,Debt,Moderately High,10.283999999999999,10.205805564890106,0
+bank of india mutual fund,Bank of India Liquid Reg-G Transfer,0,5,0.58%,2845.05,7.42,6.07,0,Mithraem Bharucha,1790.04,Debt,Low to Moderate,10.396,10.355079592083817,0
+bank of india mutual fund,Bank of India Ultra Short Duration Reg-G,3,2,0.53%,2995.08,6.42,5.38,Rs.1000.0,Mithraem Bharucha,164.25,Debt,Low to Moderate,6.720000000000001,6.760007494833971,2
+bank of india mutual fund,Bank of India Ultra Short Duration Reg-G Tran,0,2,0.53%,2995.08,6.42,5.38,Rs.1000.0,Mithraem Bharucha,164.25,Debt,Low to Moderate,6.720000000000001,6.760007494833971,2
+bank of india mutual fund,Bank of India Short Term Income Reg-G,3,1,0.68%,24.76,7.01,12.45,Rs.1000.0,Mithraem Bharucha,71.55,Debt,Moderate,8.784,8.890973384000683,2
+bank of india mutual fund,Bank of India Liquid Reg-G,3,5,0.58%,2845.6,7.42,6.07,Rs.5000.0,Mithraem Bharucha,1790.04,Debt,Low to Moderate,10.396,10.355079592083817,0
+bank of india mutual fund,Bank of India Overnight Reg-G,0,5,0.55%,1247.78,6.86,5.75,Rs.5000.0,Mithraem Bharucha,38.55,Debt,Low,10.044,10.066151793441158,0
+sbi mutual fund,SBI Infrastructure-G,3,4,4.41%,54.6,56.01,30.5,Rs.500.0,Mohit Jain,4790.48,Equity,High ,38.604,39.71838232879128,1
+sbi mutual fund,SBI Banking & Financial Services Reg-G,4,4,5.48%,38.26,31.64,15.31,Rs.500.0,Mohit Jain,6120.42,Equity,Very High,22.78,22.80816081718531,1
+aditya birla sun life mutual fund,Aditya Birla SL Dynamic Bond Reg-G,3,5,1.27%,43.53,8.98,6.93,Rs.1000.0,Mohit Sharma,1687.62,Debt,Moderate,11.364,11.431989657611568,0
+tata mutual fund,Tata Equity Savings Reg-G,3,3,1.24%,52.63,15.61,8.81,Rs.100.0,Murthy Nagarajan,169.12,Hybrid,Low to Moderate,12.768,12.969022641845367,0
+tata mutual fund,Tata Multi Asset Opportunities Reg-G,0,3,2.32%,22.72,25.09,14.44,Rs.100.0,Murthy Nagarajan,3263.01,Hybrid,Very High,18.812,19.091508814577626,2
+tata mutual fund,Tata Hybrid Equity Reg-G,2,3,3.73%,447.71,26.16,14.07,Rs.100.0,Murthy Nagarajan,4267.59,Hybrid,Very High,19.092,19.21169153484386,2
+tata mutual fund,Tata Retirement Savings Conservative Reg-G,5,2,1.89%,30.96,14.54,7.34,Rs.500.0,Murthy Nagarajan,175.7,Other,Moderately High,10.751999999999999,10.579384900651597,2
+tata mutual fund,Tata Retirement Savings Progressive Reg-G,4,3,5.28%,67.78,37.37,15.38,Rs.500.0,Murthy Nagarajan,2131.58,Other,Very High,24.1,24.14294524005989,1
+tata mutual fund,Tata Retirement SavingsModerate Reg-G,5,3,4.58%,65.17,31.3,14.33,Rs.500.0,Murthy Nagarajan,2205.81,Other,Very High,21.252000000000002,21.00914799490163,2
+tata mutual fund,Tata Short Term Bond Reg-G,3,2,0.67%,45.08,7.25,5.13,Rs.500.0,Murthy Nagarajan,2441.0,Debt,Moderate,6.952,6.966746985286767,2
+sundaram mutual fund,Sundaram Money Reg-G,5,3,0.29%,35.87,3.29,4.69,Rs.100.0,,3144.09,Debt,Low to Moderate,6.192,7.278643512399575,0
+mirae asset mutual fund,Mirae Asset ELSS Tax Saver Reg-G,3,3,5.88%,49.33,35.05,16.71,Rs.500.0,Neelesh Surana,26041.77,Equity,Moderate ,23.704,23.65152489987404,1
+mirae asset mutual fund,Mirae Asset Large & Midcap Reg-G,4,2,5.36%,154.59,35.32,16.66,Rs.500.0,Neelesh Surana,40204.84,Equity,High ,22.792,22.781449014945427,2
+hsbc mutual fund,HSBC Large and Mid Cap Reg-G,3,3,4.59%,27.79,48.42,21.32,Rs.500.0,Neelotpal Sahai,3638.62,Equity,High ,30.896,30.57380069008108,1
+taurus mutual fund,Taurus Infrastructure Reg-G,2,2,4.89%,72.52,46.48,23.2,Rs.500.0,Neha Raichura,10.56,Equity,High,29.872,29.834442477863604,1
+bandhan mutual fund,Bandhan Nifty 50 Index Reg-G,2,3,5.04%,54.32,26.92,14.16,Rs.100.0,Nemish Sheth,1527.47,Other,Very High,19.432000000000002,19.548818041224845,2
+sbi mutual fund,SBI Equity Savings Reg-G,3,4,1.79%,23.1,15.92,10.47,Rs.500.0,Nidhi Chawla,5088.38,Hybrid,Moderately High,14.556000000000001,14.776961974665715,0
+motilal oswal mutual fund,Motilal Oswal Midcap Reg-G,4,5,9.08%,106.72,68.83,37.77,Rs.500.0,Niket Shah,15940.06,Equity,Very High,47.64,43.50346149088423,1
+bank of india mutual fund,Bank of India Large & Mid Cap Equity Reg-,3,3,3.21%,92.48,41.58,18.63,Rs.1000.0,Nitin Gosar,379.19,Equity,Very High,27.084000000000003,27.033691982871613,1
+bank of india mutual fund,Bank of India Manufacturing & Infrastruct,4,3,3.43%,59.41,55.52,29.13,Rs.1000.0,Nitin Gosar,502.75,Equity,High ,36.86,39.310840598410735,1
+franklin templeton mutual fund,Franklin India Money Market Ret-G,4,3,0.60%,47.19,7.49,6.01,Rs.500.0,Pallab Roy,2060.4,Debt,Low to Moderate,8.4,8.376901293790755,0
+franklin templeton mutual fund,Franklin India Liquid Super Inst-G,5,3,0.58%,3718.59,7.35,6.0,Rs.500.0,Pallab Roy,2736.36,Debt,Low to Moderate,8.34,8.321516317618185,0
+franklin templeton mutual fund,Franklin India Floating Rate-G,3,3,0.65%,38.21,7.94,6.05,Rs.500.0,Pallab Roy,303.63,Debt,Low to Moderate,8.596,8.568007436963056,0
+franklin templeton mutual fund,Franklin India Overnight Reg-G,0,2,0.53%,1282.51,6.69,5.59,Rs.500.0,Pallab Roy,324.82,Debt,Low,6.912000000000001,6.890916022084984,2
+kotak mahindra mutual fund,Kotak Small Cap Reg-G,3,3,6.30%,285.63,43.03,21.75,Rs.100.0,Pankaj Tibrewal,17638.64,Equity,Very High ,28.912,29.088120880300206,1
+kotak mahindra mutual fund,Kotak Emerging Equity Reg-G,4,4,5.90%,136.05,48.68,24.3,Rs.100.0,Pankaj Tibrewal,51366.36,Equity,High ,33.192,33.336752309426366,1
+kotak mahindra mutual fund,Kotak Equity Hybrid Reg-G,4,4,4.36%,62.28,32.31,17.26,Rs.100.0,Pankaj Tibrewal,6510.25,Hybrid,Moderate ,23.828000000000003,23.87568751670835,1
+union mutual fund,Union Equity Savings Reg-G,2,2,1.23%,16.4,13.1,7.52,Rs.500.0,Parijat Agrawal,129.26,Hybrid,Moderately High,10.248000000000001,10.311647126702466,2
+union mutual fund,Union Balanced Advantage Reg-G,3,3,1.94%,19.94,19.4,10.19,Rs.500.0,Parijat Agrawal,1554.42,Hybrid,Very High,14.835999999999999,14.813962667442155,0
+union mutual fund,Union Money Market Reg-G,2,1,0.53%,1166.99,6.49,5.23,Rs.500.0,Parijat Agrawal,179.08,Debt,Low to Moderate,5.688000000000001,5.976834103052793,2
+union mutual fund,Union Corporate Bond Reg-G,3,2,0.80%,14.29,7.71,5.04,Rs.500.0,Parijat Agrawal,289.73,Debt,Moderate,7.1,7.142099709172665,2
+union mutual fund,Union Liquid-G,0,4,0.58%,2378.78,7.35,6.02,Rs.500.0,Parijat Agrawal,5093.74,Debt,Low to Moderate,9.347999999999999,9.332787274891933,0
+union mutual fund,Union Aggressive Hybrid Reg-G,2,2,4.65%,17.99,26.6,12.56,Rs.500.0,Parijat Agrawal,651.95,Hybrid,Very High,17.664,17.776096368249288,2
+union mutual fund,Union Dynamic Bond-G,3,1,1.25%,22.13,8.94,4.73,Rs.500.0,Parijat Agrawal,80.69,Debt,Moderate,6.468,6.388820008083598,2
+union mutual fund,Union Medium Duration Reg-G,2,2,0.84%,12.12,7.76,4.78,Rs.500.0,Parijat Agrawal,91.19,Debt,Moderate,7.016,6.932809313429054,2
+whiteoak capital mutual fund,WhiteOak Capital Ultra Short Duration Reg-G,3,3,0.53%,1289.79,6.7,5.53,Rs.500.0,Piyush Baranwal,282.26,Debt,Low to Moderate,7.892000000000001,7.874320093545179,0
+whiteoak capital mutual fund,WhiteOak Capital Liquid Reg-G,0,2,0.57%,1330.81,7.23,5.76,Rs.500.0,Piyush Baranwal,285.93,Debt,Low to Moderate,7.196,7.1774650621676015,2
+invesco mutual fund,Invesco India Large & Mid Cap-G,4,3,8.02%,96.53,57.6,22.85,Rs.100.0,Pranav Gokhale,6205.14,Equity,High ,35.18000000000001,34.628425308311236,1
+invesco mutual fund,Invesco India Mid Cap-G,4,3,9.02%,169.73,57.43,26.03,Rs.500.0,Pranav Gokhale,5589.05,Equity,High ,36.384,35.26428493563613,1
+nippon india mutual fund,Nippon India Retirement - Income Generation S,3,1,2.20%,19.62,14.05,7.81,Rs.100.0,Pranay Sinha,163.15,Other,Moderately High,9.744000000000002,9.494838356988549,2
+nippon india mutual fund,Nippon India Gilt Securities PF Auto Cap App,3,2,1.30%,36.25,9.49,5.54,Rs.100.0,Pranay Sinha,1876.87,Debt,Moderate,8.012,8.019484357267713,2
+nippon india mutual fund,Nippon India Gilt Securities PF Defined Matur,3,2,1.30%,36.25,9.49,5.54,Rs.100.0,Pranay Sinha,1876.87,Debt,Moderate,8.012,8.019484357267713,2
+nippon india mutual fund,Nippon India Gilt Securities-G,3,2,1.30%,36.25,9.49,5.53,Rs.100.0,Pranay Sinha,1876.87,Debt,Moderate,8.008000000000001,8.019484357267713,2
+nippon india mutual fund,Nippon India Retirement Fund - Wealth Creatio,2,3,5.24%,29.97,39.24,19.49,Rs.500.0,Pranay Sinha,3467.01,Other,Moderate ,26.492,26.761866430613644,1
+baroda bnp paribas mutual fund,Baroda BNP Paribas Credit Risk Reg-G,4,4,1.03%,20.79,8.1,9.01,Rs.500.0,Prashant R Pimple,141.6,Debt,Moderately High,10.844000000000001,10.778638323155104,0
+baroda bnp paribas mutual fund,Baroda BNP Paribas Short Duration-G,4,3,0.78%,27.4,7.5,5.4,Rs.500.0,Prashant R Pimple,212.27,Debt,Moderate,8.16,8.122345622879129,0
+baroda bnp paribas mutual fund,Baroda BNP Paribas Banking & PSU Bond Reg,2,2,0.85%,11.84,7.5,4.77,Rs.500.0,Prashant R Pimple,27.24,Debt,Moderate,6.9079999999999995,6.848506490166429,2
+baroda bnp paribas mutual fund,Baroda BNP Paribas Balanced Advantage Reg-G,5,4,3.88%,23.82,25.84,13.97,Rs.500.0,Prashant R Pimple,4111.83,Hybrid,Very High,19.924,19.872403462376706,0
+baroda bnp paribas mutual fund,Baroda BNP Paribas Conservative Hybrid-G,3,3,1.87%,43.1,13.25,7.38,Rs.500.0,Prashant R Pimple,750.92,Hybrid,Moderately High,11.252,11.393793399283101,0
+invesco mutual fund,Invesco India Liquid-G,5,4,0.58%,3396.92,7.35,5.99,Rs.500.0,Prateek Agrawal,11289.3,Debt,Low to Moderate,9.336,9.32010667427483,0
+hsbc mutual fund,HSBC Nifty Next 50 Index Reg-G,0,4,5.32%,32.3,64.55,20.41,Rs.500.0,Praveen Ayathan,135.48,Other,Low ,37.984,38.14818093549012,1
+hsbc mutual fund,HSBC Nifty 50 Index Reg-G,0,3,5.06%,29.04,27.2,14.21,Rs.500.0,Praveen Ayathan,293.58,Other,Very High,19.564,19.5610259184141,2
+icici prudential mutual fund,ICICI Pru Pharma Healthcare and Diagnostics (,0,5,8.25%,39.25,62.06,22.18,Rs.100.0,Priyanka Khandelwal,4807.86,Equity,Moderately High ,38.696,38.76751968271912,1
+icici prudential mutual fund,ICICI Pru Bluechip-G,4,5,4.57%,110.25,37.52,20.09,Rs.100.0,Priyanka Khandelwal,64222.82,Equity,Moderately High ,28.044000000000004,28.002965360601433,1
+icici prudential mutual fund,ICICI Pru Midcap-G,2,3,5.68%,297.94,53.37,23.77,Rs.100.0,Priyanka Khandelwal,6624.63,Equity,High ,33.856,33.419541292696266,1
+icici prudential mutual fund,ICICI Pru Banking and Financial Services-G,3,3,5.58%,124.29,21.98,13.59,Rs.100.0,Priyanka Khandelwal,8175.89,Equity,Very High,17.228,17.259393901209446,2
+icici prudential mutual fund,ICICI Pru Smallcap-G,2,3,6.69%,92.7,35.96,23.99,Rs.100.0,Priyanka Khandelwal,8730.78,Equity,Very High ,26.98,27.1775647588525,1
+icici prudential mutual fund,ICICI Pru ELSS Tax Saver-G,2,2,6.74%,950.53,36.75,17.56,Rs.500.0,Priyanka Khandelwal,14907.37,Equity,Moderate ,23.724,23.936343124860745,2
+pgim india mutual fund,PGIM India Dynamic Bond-G,3,3,1.25%,2495.11,9.19,5.39,Rs.1000.0,Puneet Pal,110.13,Debt,Moderate,8.832,8.892051050119962,0
+pgim india mutual fund,PGIM India Balanced Advantage Reg-G,1,2,4.32%,15.22,19.09,10.39,Rs.1000.0,Puneet Pal,1123.69,Hybrid,Very High,13.792000000000002,13.97952945196616,2
+pgim india mutual fund,PGIM India Arbitrage Reg-G,0,2,0.52%,17.46,7.21,5.53,Rs.1000.0,Puneet Pal,113.19,Hybrid,Low,7.096,7.104881141594623,2
+pgim india mutual fund,PGIM India Midcap Opportunities Reg-G,2,3,6.71%,65.87,34.4,15.98,Rs.1000.0,Puneet Pal,11408.38,Equity,High ,23.152,23.174946208112146,1
+pgim india mutual fund,PGIM India Gilt-G,3,3,1.33%,28.76,9.53,5.52,Rs.1000.0,Puneet Pal,115.25,Debt,Moderate,9.02,8.967417166734533,0
+pgim india mutual fund,PGIM India Money Market Reg-G,3,3,0.57%,1251.72,7.09,5.76,Rs.1000.0,Puneet Pal,221.59,Debt,Low to Moderate,8.14,8.205863899020136,0
+pgim india mutual fund,PGIM India Ultra Short Duration-G,4,3,0.54%,32.26,6.72,5.49,Rs.1000.0,Puneet Pal,243.09,Debt,Low to Moderate,7.884,7.751170844568691,0
+pgim india mutual fund,PGIM India Liquid-G,5,3,0.57%,321.76,7.28,5.97,Rs.1000.0,Puneet Pal,447.41,Debt,Low to Moderate,8.3,8.321467113801555,0
+pgim india mutual fund,PGIM India Large Cap-G,1,1,6.36%,350.47,26.38,11.52,Rs.1000.0,Puneet Pal,618.39,Equity,Very High,16.16,16.094279827897136,2
+pgim india mutual fund,PGIM India Equity Savings-G,2,3,1.52%,47.3,9.77,6.47,Rs.1000.0,Puneet Pal,79.02,Hybrid,Low to Moderate,9.496,9.512088278758709,0
+pgim india mutual fund,PGIM India Corporate Bond-G,3,3,0.82%,40.49,7.35,5.21,Rs.1000.0,Puneet Pal,96.32,Debt,Moderate,8.024000000000001,8.083295810132578,0
+pgim india mutual fund,PGIM India Overnight Reg-G,0,3,0.54%,1267.75,6.73,5.63,Rs.1000.0,Puneet Pal,99.65,Debt,Low,7.944000000000001,7.912067366865466,0
+pgim india mutual fund,PGIM India ELSS Tax Saver Reg-G,2,2,6.00%,35.14,26.04,15.87,Rs.500.0,Puneet Pal,777.22,Equity,Moderate ,18.764,18.707085760675522,2
+sbi mutual fund,SBI Magnum Ultra Short Duration Reg-G Cash,4,3,0.58%,5638.88,7.28,5.86,Rs.500.0,R Arun,12828.42,Debt,Moderate,8.256,8.31056012667783,0
+sbi mutual fund,SBI Overnight Reg-G,5,2,0.53%,3963.07,6.67,5.58,Rs.500.0,R Arun,16968.96,Debt,Low,6.9,6.8463419474384155,2
+sbi mutual fund,SBI Savings-G,4,2,0.56%,39.11,7.11,5.74,Rs.500.0,R Arun,28686.06,Debt,Moderate,7.140000000000001,7.102584251582429,2
+sbi mutual fund,SBI Arbitrage Opportunities-G,3,4,0.56%,32.05,7.64,6.28,Rs.500.0,R Arun,32415.26,Hybrid,Low,9.568000000000001,9.543280602518644,0
+sbi mutual fund,SBI Liquid-G,4,3,0.57%,3866.56,7.28,5.95,Rs.500.0,R Arun,67570.48,Debt,Moderate,8.292000000000002,8.294420990785591,0
+franklin templeton mutual fund,Franklin India Prima-G,3,2,6.39%,2818.67,52.42,22.7,Rs.500.0,R Janakiraman,12745.75,Equity,High ,32.048,31.88239510623672,1
+franklin templeton mutual fund,Franklin India Smaller Companies-G,3,3,5.44%,188.04,49.21,28.58,Rs.500.0,R Janakiraman,14423.33,Equity,Very High ,34.116,35.35622559204393,1
+franklin templeton mutual fund,Franklin India Equity Advantage-G,1,2,6.06%,194.05,38.88,17.24,Rs.500.0,R Janakiraman,3674.59,Equity,Moderately High ,24.448,24.51798984049802,2
+axis mutual fund,Axis Equity Saver Reg-G,3,2,2.70%,21.7,18.71,8.7,Rs.100.0,R Sivakumar,1012.5,Hybrid,Moderately High,12.964,13.142374798768666,2
+axis mutual fund,Axis Multi Asset Allocation Reg-G,1,1,3.72%,39.27,24.48,8.81,Rs.100.0,R Sivakumar,1302.54,Hybrid,Very High,14.316000000000003,13.84087850194976,2
+axis mutual fund,Axis All Seasons Debt FoF Reg-G,0,4,1.07%,13.57,9.43,6.06,Rs.100.0,R Sivakumar,142.9,Other,Moderate,10.196,10.125906502426906,0
+axis mutual fund,Axis Balanced Advantage Reg-G,3,3,4.67%,20.63,29.26,12.88,Rs.100.0,R Sivakumar,2523.46,Hybrid,Very High,19.856,20.14026273024391,2
+axis mutual fund,Axis Dynamic Bond Reg-G,4,3,1.27%,27.84,8.59,5.5,Rs.1000.0,R Sivakumar,1679.62,Debt,Moderate,8.636000000000001,8.640838692333263,0
+axis mutual fund,Axis Equity Hybrid Reg-G,1,1,5.78%,20.69,27.01,9.95,Rs.1000.0,R Sivakumar,1690.58,Hybrid,Very High,15.784000000000002,15.293428147923901,2
+axis mutual fund,Axis Retirement Savings-Dynamic Plan Reg-G,0,1,5.86%,20.22,40.61,12.81,Rs.1000.0,R Sivakumar,393.7,Other,Very High,22.368000000000002,21.2927139805669,2
+axis mutual fund,Axis Retirement Savings-Conservative Plan Reg,0,1,3.28%,15.79,19.82,8.23,Rs.1000.0,R Sivakumar,76.28,Other,High,12.22,12.131227374194907,2
+axis mutual fund,Axis Retirement Savings-Aggressive Plan Reg-G,0,1,5.03%,18.81,36.7,10.79,Rs.1000.0,R Sivakumar,950.7,Other,Very High,19.996000000000002,19.947760847022106,2
+sbi mutual fund,SBI Flexicap-G,0,3,3.64%,112.32,28.93,14.2,Rs.500.0,R. Srinivasan,22986.72,Equity,Very High,20.252000000000002,20.189300891848088,2
+sbi mutual fund,SBI Small Cap-G,3,3,5.41%,187.22,38.68,23.92,Rs.500.0,R. Srinivasan,33068.53,Equity,Very High ,28.040000000000003,27.77161751992804,1
+sbi mutual fund,SBI Focused Equity-G,3,3,3.88%,340.14,28.03,12.88,Rs.500.0,R. Srinivasan,35570.57,Equity,Very High,19.364000000000004,19.38340173132127,2
+sbi mutual fund,SBI Equity Hybrid-G,3,3,4.94%,285.21,25.15,12.46,Rs.500.0,R. Srinivasan,73405.39,Hybrid,Very High,18.044,17.895087801181624,2
+hdfc mutual fund,HDFC Top 100-G,4,4,4.41%,1176.82,33.75,20.65,Rs.100.0,Rahul Baijal,37783.08,Equity,Moderately High ,25.759999999999998,25.958628994229976,1
+edelweiss mutual fund,Edelweiss Liquid Reg-G,5,2,0.57%,3161.19,7.29,5.88,Rs.100.0,Rahul Dedhia,5722.45,Debt,Low to Moderate,7.268000000000001,7.211550901100093,2
+edelweiss mutual fund,Edelweiss Overnight Reg-G,0,3,0.53%,1273.34,6.7,5.59,Rs.100.0,Rahul Dedhia,573.79,Debt,Low,7.916,7.871432469072716,0
+icici prudential mutual fund,ICICI Pru Savings-G,5,1,0.59%,510.75,7.58,6.14,Rs.100.0,Rahul Goswami,19744.04,Debt,Low to Moderate,6.4879999999999995,6.685907991935249,2
+icici prudential mutual fund,ICICI Pru Corporate Bond-G,5,5,0.61%,27.91,7.65,6.21,Rs.100.0,Rahul Goswami,26906.81,Debt,Moderate,10.544,10.627865394144136,0
+icici prudential mutual fund,ICICI Pru Money Market-G,4,4,0.60%,357.04,7.57,6.18,Rs.100.0,Rahul Goswami,29118.99,Debt,Low to Moderate,9.5,9.456328928709326,0
+icici prudential mutual fund,ICICI Pru Floating Interest-G,4,2,0.54%,399.1,7.53,6.01,Rs.100.0,Rahul Goswami,8965.52,Debt,Moderate,7.416,7.559681765802489,2
+icici prudential mutual fund,ICICI Pru Banking & PSU Debt-G,5,5,0.52%,30.65,7.41,6.02,Rs.100.0,Rahul Goswami,9225.4,Debt,Moderate,10.372,10.517868976417505,0
+icici prudential mutual fund,ICICI Pru Gilt-G,5,5,0.85%,96.31,8.18,6.2,Rs.1000.0,Rahul Goswami,6390.24,Debt,Moderate,10.752,10.766357290904743,0
+icici prudential mutual fund,ICICI Pru Overnight-G,0,4,0.53%,1322.55,6.74,5.6,Rs.500.0,Rahul Goswami,8777.32,Debt,Low,8.936,8.964691886137782,0
+icici prudential mutual fund,ICICI Pru Liquid-G,5,4,0.58%,366.05,7.35,5.97,Rs.99.0,Rahul Goswami,50596.87,Debt,Moderate,9.328,9.28006135603691,0
+mahindra manulife mutual fund,Mahindra Manulife Liquid Reg-G,0,4,0.58%,1608.97,7.35,6.03,Rs.500.0,Rahul Pal,1416.61,Debt,Moderate,9.352,9.3346005435935,0
+mahindra manulife mutual fund,Mahindra Manulife Aggressive Hybrid Reg-G,4,3,4.29%,27.0,35.22,17.63,Rs.500.0,Rahul Pal,1432.17,Hybrid,Moderate ,24.14,24.175623055877963,1
+mahindra manulife mutual fund,Mahindra Manulife Overnight Reg-G,0,3,0.53%,1270.13,6.69,5.6,Rs.500.0,Rahul Pal,202.48,Debt,Low,7.916,7.925756620089407,0
+mahindra manulife mutual fund,Mahindra Manulife Ultra Short Duration Reg-G,3,4,0.56%,1299.27,7.14,5.75,Rs.500.0,Rahul Pal,250.38,Debt,Low to Moderate,9.156,9.194355515396428,0
+mahindra manulife mutual fund,Mahindra Manulife Dynamic Bond Reg-G,1,1,1.08%,13.54,8.7,4.61,Rs.500.0,Rahul Pal,54.26,Debt,Moderate,6.324,6.179962583465695,2
+mahindra manulife mutual fund,Mahindra Manulife Equity Savings Reg-G,4,3,2.39%,20.11,16.21,9.34,Rs.500.0,Rahul Pal,543.63,Hybrid,Moderately High,13.22,13.359098383855098,0
+mahindra manulife mutual fund,Mahindra ManulifeLow Duration Reg-G,3,2,0.56%,1543.0,6.91,5.38,Rs.500.0,Rahul Pal,555.4,Debt,Moderate,6.916,6.893084373651884,2
+mahindra manulife mutual fund,Mahindra Manulife Short Duration Reg-G,3,2,0.69%,11.98,7.48,5.13,Rs.500.0,Rahul Pal,63.68,Debt,Moderate,7.0440000000000005,7.110977413843499,2
+mahindra manulife mutual fund,Mahindra Manulife Arbitrage Reg-G,0,2,0.38%,11.82,6.22,4.7,Rs.500.0,Rahul Pal,98.53,Hybrid,Low,6.368,6.473761419567949,2
+lic mutual fund,LIC MF Liquid Reg-G,5,3,0.58%,4471.72,7.37,5.96,Rs.1000.0,Rahul Singh,11403.17,Debt,Low to Moderate,8.332,8.338358054249117,0
+lic mutual fund,LIC MFLow Duration-G,3,2,0.54%,37.33,6.84,5.38,Rs.1000.0,Rahul Singh,1535.72,Debt,Low to Moderate,6.888,6.880170784369859,2
+lic mutual fund,LIC MF Ultra Short Duration Reg-G,2,2,0.55%,1251.88,6.63,5.67,Rs.1000.0,Rahul Singh,341.12,Debt,Low to Moderate,6.92,6.947672590132506,2
+lic mutual fund,LIC MF Overnight Reg-G,0,2,0.53%,1269.74,6.66,5.57,Rs.1000.0,Rahul Singh,487.1,Debt,Low,6.892,6.871622586337066,2
+ppfas mutual fund,Parag Parikh Liquid Reg-G,0,1,0.55%,1375.49,6.93,5.65,Rs.1000.0,Raj Mehta,2318.35,Debt,Low to Moderate,6.032,6.037510453794083,2
+franklin templeton mutual fund,Franklin India Dynamic Asset Allocation FoF-G,3,4,2.37%,160.59,21.38,15.43,Rs.500.0,Rajasa Kakulavarapu,1339.11,Other,High,18.724,18.822201338466936,0
+franklin templeton mutual fund,Franklin India Multi Asset Solution FoF-G,2,2,2.80%,19.07,18.69,11.15,Rs.500.0,Rajasa Kakulavarapu,55.5,Other,High,13.936,13.971224837700058,2
+icici prudential mutual fund,ICICI Pru Flexicap-G,0,4,5.89%,19.43,44.78,22.59,Rs.100.0,Rajat Chandak,17167.38,Equity,Moderate ,30.948,30.80524875324511,1
+sbi mutual fund,SBI Floating Rate Debt Reg-G,3,4,0.74%,12.52,8.04,6.24,Rs.500.0,Rajeev Radhakrishnan,1135.26,Debt,Low to Moderate,9.712,9.629255983654653,0
+sbi mutual fund,SBI MagnumLow Duration-G,4,4,0.55%,3294.07,7.1,5.57,Rs.500.0,Rajeev Radhakrishnan,11828.2,Debt,Low to Moderate,9.068,9.127656996677107,0
+sbi mutual fund,SBI Short Term Debt-G,4,4,0.71%,30.08,7.44,5.45,Rs.500.0,Rajeev Radhakrishnan,13299.65,Debt,Moderate,9.156,9.15945961533353,0
+sbi mutual fund,SBI Corporate Bond Reg-G,3,3,0.76%,14.5,7.53,5.39,Rs.500.0,Rajeev Radhakrishnan,20176.19,Debt,Moderate,8.168000000000001,8.130586690188796,0
+sbi mutual fund,SBI Banking and PSU-G,4,2,0.74%,2922.1,7.41,5.13,Rs.500.0,Rajeev Radhakrishnan,3774.24,Debt,Moderate,7.016,6.981410159964296,2
+ppfas mutual fund,Parag Parikh Conservative Hybrid Reg-G,5,5,1.03%,14.21,16.19,11.45,Rs.1000.0,Rajeev Thakkar,2197.03,Hybrid,Moderately High,16.056,16.282619713806135,0
+ppfas mutual fund,Parag Parikh ELSS Tax Saver Reg-G,4,5,5.36%,30.99,33.46,19.86,Rs.1000.0,Rajeev Thakkar,4152.25,Equity,Moderate ,26.328,26.566213636917063,1
+ppfas mutual fund,Parag Parikh Flexi Cap Reg-G,0,5,3.50%,80.0,36.16,17.74,Rs.1000.0,Rajeev Thakkar,78490.29,Equity,Moderate ,26.56,26.589430199951043,1
+lic mutual fund,LIC MF Equity Savings-G,2,2,2.64%,26.43,14.83,8.46,Rs.1000.0,Raju Sharma,20.16,Hybrid,Moderately High,11.316,11.856908001364054,2
+motilal oswal mutual fund,Motilal Oswal Ultra Short Term Reg-G,2,1,0.47%,15.75,6.08,4.78,Rs.500.0,Rakesh Shetty,313.87,Debt,Low to Moderate,5.344,5.7531322769912325,2
+motilal oswal mutual fund,Motilal Oswal Liquid Reg-G,0,1,0.55%,13.12,6.92,5.57,Rs.500.0,Rakesh Shetty,752.34,Debt,Low to Moderate,5.996,6.044951520788002,2
+hdfc mutual fund,HDFC Infrastructure-G,2,1,3.46%,49.55,56.45,36.21,Rs.100.0,Rakesh Vyas,2567.79,Equity,Very High,38.06400000000001,39.2879279593965,1
+taurus mutual fund,Taurus ELSS Tax Saver Reg-G,3,3,5.31%,189.02,35.63,18.57,Rs.1000.0,Ramneek Kundra,82.95,Equity,Very High,24.680000000000003,24.695687152064526,1
+sundaram mutual fund,Sundaram Infrastructure Advantage Reg-G,2,2,3.97%,98.14,50.33,25.66,Rs.100.0,Ratish Varier,1053.11,Equity,Very High,32.396,32.542412297130554,1
+sundaram mutual fund,Sundaram Consumption Reg-G,3,2,8.14%,103.8,40.98,21.33,Rs.100.0,Ratish Varier,1629.47,Equity,High ,26.924,26.748991271165913,1
+sundaram mutual fund,Sundaram Focused-G,3,3,5.26%,169.07,33.27,16.04,Rs.100.0,Ravi Gopalakrishnan,1156.29,Equity,Moderately High ,22.724000000000004,22.773964404408794,1
+sundaram mutual fund,Sundaram Balanced Advantage-G,2,4,3.73%,35.08,22.19,11.87,Rs.100.0,Ravi Gopalakrishnan,1574.4,Hybrid,High,17.624000000000002,17.66096445104155,0
+sundaram mutual fund,Sundaram Small Cap Reg-G,1,2,8.20%,269.1,41.01,24.04,Rs.100.0,Ravi Gopalakrishnan,3502.82,Equity,Very High ,28.02,28.091313897258075,1
+sundaram mutual fund,Sundaram Large Cap Reg-G,2,3,5.56%,22.0,27.45,13.87,Rs.100.0,Ravi Gopalakrishnan,3665.53,Equity,Very High,19.528,19.62349845336307,2
+sundaram mutual fund,Sundaram Aggressive Hybrid-G,3,3,4.86%,162.79,28.58,13.67,Rs.100.0,Ravi Gopalakrishnan,5328.2,Hybrid,High,19.9,19.862172537777653,2
+sundaram mutual fund,Sundaram Aggressive Hybrid-G Payout,0,3,4.86%,162.79,28.58,13.67,Rs.100.0,Ravi Gopalakrishnan,5328.2,Hybrid,High,19.9,19.862172537777653,2
+sundaram mutual fund,Sundaram Large and Mid Cap-G,3,2,5.23%,87.64,37.93,17.07,Rs.100.0,Ravi Gopalakrishnan,7129.6,Equity,High ,24.0,23.905668723171694,2
+sbi mutual fund,SBI Nifty Next 50 Index Reg-G,0,4,5.33%,20.37,64.89,20.66,Rs.500.0,Raviprakash Sharma,1311.39,Other,Low ,38.220000000000006,38.20681934178166,1
+sbi mutual fund,SBI Gold-G,0,4,3.85%,21.82,23.77,14.68,Rs.500.0,Raviprakash Sharma,2027.77,Other,High,19.380000000000003,19.48207379416663,0
+sbi mutual fund,SBI Nifty Index-G,2,2,5.06%,222.61,27.13,14.18,Rs.500.0,Raviprakash Sharma,8483.97,Other,Very High,18.524,18.4589636926328,2
+hsbc mutual fund,HSBC Conservative Hybrid-G,3,3,1.87%,58.93,17.71,8.81,Rs.500.0,Ritesh Jain,133.4,Hybrid,Moderately High,13.608,13.423974603978381,0
+hsbc mutual fund,HSBC Balanced Advantage-G,3,3,3.10%,42.78,22.74,11.36,Rs.500.0,Ritesh Jain,1502.4,Hybrid,High,16.64,16.672116898192165,2
+hsbc mutual fund,HSBC Arbitrage Reg-G,0,3,0.49%,18.04,7.49,5.75,Rs.500.0,Ritesh Jain,2505.59,Hybrid,Low,8.296000000000001,8.310970893040134,0
+hsbc mutual fund,HSBC Equity Savings-G,5,5,2.02%,32.62,25.18,12.8,Rs.500.0,Ritesh Jain,449.96,Hybrid,Moderately High,20.192,20.381835941413193,0
+uti mutual fund,UTI Ultra Short Duration Reg-G,5,5,0.60%,4008.6,7.05,6.59,Rs.500.0,Ritesh Nambiar,2143.69,Debt,Moderate,10.456,10.34910084482905,0
+uti mutual fund,UTI Credit Risk Reg-G,2,4,1.21%,16.07,7.65,11.17,Rs.500.0,Ritesh Nambiar,343.15,Debt,Moderately High,11.528,11.782200390151411,0
+uti mutual fund,UTI Medium Duration Reg-G,3,3,0.89%,17.2,7.42,6.12,Rs.500.0,Ritesh Nambiar,39.91,Debt,Moderate,8.416,8.411890073162096,0
+sundaram mutual fund,Sundaram Financial Services Opp Reg-G,5,5,6.69%,101.09,29.02,19.17,Rs.100.0,Rohit Seksaria,1444.21,Equity,High ,24.276000000000003,23.95122637649423,1
+sundaram mutual fund,Sundaram Nifty 100 Equal Weight-G,2,4,5.03%,184.29,47.18,18.8,Rs.100.0,Rohit Seksaria,95.67,Other,Low ,30.392,31.196359653071763,1
+dsp mutual fund,DSP Equity Opportunities-G,3,3,5.37%,636.35,47.77,20.44,Rs.100.0,Rohit Singhania,14246.48,Equity,Moderately High ,30.284,30.34565333595558,1
+dsp mutual fund,DSP India T.I.G.E.R. Reg-G,3,3,3.31%,341.82,61.86,33.81,Rs.100.0,Rohit Singhania,5500.38,Equity,Very High,41.268,42.88010936438244,1
+dsp mutual fund,DSP ELSS Tax Saver-G,4,4,6.00%,142.68,46.47,20.55,Rs.500.0,Rohit Singhania,17488.27,Equity,Moderate ,30.808,30.551352050944274,1
+hdfc mutual fund,HDFC Focused 30-G,3,5,5.81%,221.34,41.73,28.18,Rs.100.0,Roshi Jain,14329.6,Equity,Moderately High ,32.964,33.10000055902601,1
+hdfc mutual fund,HDFC Flexi Cap-G,0,4,5.46%,1920.59,41.77,26.87,Rs.100.0,Roshi Jain,63436.49,Equity,Moderate ,31.456000000000003,30.946486515481958,1
+hdfc mutual fund,HDFC ELSS Tax Saver-G,3,4,5.29%,1393.78,44.32,24.68,Rs.500.0,Roshi Jain,16422.31,Equity,Moderate ,31.6,31.82326229536239,1
+motilal oswal mutual fund,Motilal Oswal Asset Allocation Passive FoF -,0,2,2.01%,14.75,19.94,10.39,Rs.500.0,Rouhak Shah,43.22,Other,High,14.132000000000001,14.060790085494707,2
+motilal oswal mutual fund,Motilal Oswal Asset Allocation Passive FoF -,0,2,3.40%,16.65,27.47,13.65,Rs.500.0,Rouhak Shah,67.65,Other,Very High,18.448,18.412513463445546,2
+nippon india mutual fund,Nippon India ELSS Tax Saver-G,2,2,5.50%,132.0,40.45,20.2,Rs.500.0,Rupesh Patel,16465.39,Equity,Moderate ,26.260000000000005,25.976096211379577,1
+sundaram mutual fund,Sundaram Mid Cap Reg-G,2,3,7.59%,1414.49,55.03,25.87,Rs.100.0,S Bharath,12713.29,Equity,Very High,35.36,34.56965800750395,1
+franklin templeton mutual fund,Franklin India Government Securities-G,2,1,0.93%,55.46,7.36,4.67,Rs.500.0,Sachin PadwalNADesai,146.19,Debt,Moderate,5.812,5.838580206846399,2
+franklin templeton mutual fund,Franklin India Banking & PSU Debt-G,4,4,0.66%,21.05,7.53,5.43,Rs.500.0,Sachin PadwalNADesai,593.99,Debt,Moderate,9.184000000000001,9.206121203768127,0
+bandhan mutual fund,Bandhan Equity Savings Regular-G,1,3,1.24%,29.95,10.21,6.75,Rs.100.0,Sachin Relekar,141.01,Hybrid,Low to Moderate,9.784,10.093946808943263,0
+bandhan mutual fund,Bandhan Large Cap Reg-G,3,3,6.88%,79.21,40.49,16.89,Rs.100.0,Sachin Relekar,1686.82,Equity,Moderate ,25.952,25.945034088641382,1
+bandhan mutual fund,Bandhan Asset Allocation Aggressive Reg-G,3,3,5.11%,45.61,29.29,13.49,Rs.100.0,Sachin Relekar,19.01,Other,High,20.112000000000002,20.092595333621603,2
+bandhan mutual fund,Bandhan Infrastructure Reg-G,3,2,1.59%,55.78,72.37,32.54,Rs.100.0,Sachin Relekar,1964.83,Equity,Very High,43.964000000000006,42.88010936438244,1
+bandhan mutual fund,Bandhan Balanced Advantage Reg-G,2,2,2.75%,23.74,20.56,9.4,Rs.100.0,Sachin Relekar,2321.9,Hybrid,Moderately High,13.984,14.224804295349495,2
+bandhan mutual fund,Bandhan Asset Allocation Conservative Reg-G,4,3,2.03%,32.17,13.72,7.7,Rs.100.0,Sachin Relekar,6.6,Other,Moderately High,11.568000000000001,11.395997895284076,0
+uti mutual fund,UTI Infrastructure Reg-G,1,2,2.99%,149.79,49.37,24.37,Rs.500.0,Sachin Trivedi,2453.3,Equity,High ,31.496000000000002,31.584867100530698,1
+edelweiss mutual fund,Edelweiss Small Cap Reg-G,4,3,6.16%,45.74,42.81,25.19,Rs.100.0,Sahil Shah,4141.5,Equity,Very High,30.200000000000003,30.14282713409922,1
+edelweiss mutual fund,Edelweiss Mid Cap Reg-G,4,4,6.78%,100.38,58.8,26.58,Rs.100.0,Sahil Shah,7400.59,Equity,High ,38.152,37.93498985381418,1
+tata mutual fund,Tata Balanced Advantage Reg-G,3,4,2.40%,20.37,20.17,12.22,Rs.100.0,Sailesh Jain,10207.51,Hybrid,High,16.956000000000003,16.75346229798344,0
+tata mutual fund,Tata Arbitrage Reg-G,0,4,0.54%,13.62,7.58,5.79,Rs.150.0,Sailesh Jain,11802.18,Hybrid,Low,9.348,9.35645733543825,0
+tata mutual fund,Tata ELSS Tax Saver-G,2,3,6.42%,45.76,35.27,18.62,Rs.500.0,Sailesh Jain,4806.05,Equity,Very High,24.556000000000004,24.520391114291662,1
+nippon india mutual fund,Nippon India Large Cap-G,4,5,4.88%,90.38,35.65,22.62,Rs.100.0,Sailesh Raj Bhan,32884.4,Equity,Moderate ,28.308,28.62459364113327,1
+nippon india mutual fund,Nippon India Pharma-G,0,3,5.87%,528.06,50.0,19.03,Rs.100.0,Sailesh Raj Bhan,8647.95,Equity,High ,30.612000000000002,30.323392567489773,1
+nippon india mutual fund,Nippon India Small Cap-G,4,5,5.74%,182.06,47.84,31.17,Rs.100.0,Samir Rachh,60999.55,Equity,Very High,36.604000000000006,36.80968740588056,1
+baroda bnp paribas mutual fund,Baroda BNP Paribas Banking and Financial Serv,3,2,5.41%,43.23,24.95,13.89,Rs.500.0,Sandeep Jain,170.57,Equity,Very High,17.536,17.35507114043348,2
+baroda bnp paribas mutual fund,Baroda BNP Paribas Large & Mid Cap Reg-G,3,3,6.16%,28.57,47.66,20.93,Rs.500.0,Sanjay Chawla,1443.47,Equity,High ,30.436,30.446208706368175,1
+baroda bnp paribas mutual fund,Baroda BNP Paribas Focused Reg-G,3,3,2.74%,23.27,35.32,16.9,Rs.500.0,Sanjay Chawla,719.51,Equity,Moderately High ,23.887999999999998,23.740388970253594,1
+baroda bnp paribas mutual fund,Baroda BNP Paribas ELSS Tax Saver-G,3,3,7.00%,96.99,43.98,17.87,Rs.500.0,Sanjay Chawla,967.05,Equity,Moderate ,27.74,27.642356157554232,1
+nippon india mutual fund,Nippon India Power & Infra-G,0,3,3.18%,371.87,60.55,34.92,Rs.100.0,Sanjay Doshi,7638.02,Equity,Very High,41.188,42.88010936438244,1
+lic mutual fund,LIC MF Arbitrage Reg-G,0,2,0.50%,13.13,7.1,5.6,Rs.1000.0,Sanjay Pawar,141.62,Hybrid,Low,7.08,7.062790704784684,2
+lic mutual fund,LIC MF Conservative Hybrid-G,2,1,1.80%,79.29,10.61,5.78,Rs.1000.0,Sanjay Pawar,50.81,Hybrid,Moderately High,7.556,7.260466884075847,2
+lic mutual fund,LIC MF Aggressive Hybrid-G Plan C,1,2,4.54%,198.1,30.37,12.97,Rs.1000.0,Sanjay Pawar,558.75,Hybrid,Very High,19.336000000000002,19.828356781262464,2
+quant mutual fund,Quant Focused-G,5,5,5.69%,95.71,43.68,21.85,Rs.1000.0,Sanjeev Sharma,1145.27,Equity,Moderately High ,31.212000000000003,31.168349764252348,1
+quant mutual fund,Quant Absolute-G,5,5,2.56%,442.13,33.07,18.36,Rs.1000.0,Sanjeev Sharma,2300.31,Hybrid,Moderate ,25.572000000000003,25.4987406571792,1
+quant mutual fund,Quant Liquid-G,5,2,0.56%,39.15,6.98,5.85,Rs.1000.0,Sanjeev Sharma,2486.01,Debt,Moderate,7.132,7.120408528447295,2
+quant mutual fund,Quant Small Cap-G,5,5,5.08%,282.99,54.5,30.86,Rs.1000.0,Sanjeev Sharma,25534.99,Equity,Very High ,39.144000000000005,39.23001008918083,1
+quant mutual fund,Quant Multi Asset-G,3,5,7.55%,140.8,47.9,24.84,Rs.1000.0,Sanjeev Sharma,2725.26,Hybrid,High,34.096000000000004,34.258562066460726,1
+quant mutual fund,Quant Large and Mid Cap-G,5,5,2.22%,129.58,51.81,27.1,Rs.1000.0,Sanjeev Sharma,3706.81,Equity,High ,36.56400000000001,37.05897385851382,1
+quant mutual fund,Quant Mid Cap-G,5,5,2.72%,246.75,50.02,30.17,Rs.1000.0,Sanjeev Sharma,9367.38,Equity,High ,37.07600000000001,38.019618945309894,1
+icici prudential mutual fund,ICICI Pru Focused Equity-G,4,4,5.44%,90.34,47.54,23.53,Rs.100.0,Sankaran Naren,10093.43,Equity,Moderately High ,32.428000000000004,32.844978220712676,1
+icici prudential mutual fund,ICICI Pru Bharat Consumption-G,0,5,6.65%,27.09,41.98,24.8,Rs.100.0,Sankaran Naren,2736.67,Equity,High ,31.712,31.854690657918482,1
+icici prudential mutual fund,ICICI Pru Equity & Debt-G,5,5,3.42%,381.58,35.12,23.06,Rs.100.0,Sankaran Naren,40095.35,Hybrid,Moderate ,28.272,28.570272759760854,1
+icici prudential mutual fund,ICICI Pru Multi Asset-G,4,4,3.14%,715.74,30.24,22.27,Rs.100.0,Sankaran Naren,48201.26,Hybrid,Moderate ,25.003999999999998,25.555319221939115,1
+icici prudential mutual fund,ICICI Pru Value Discovery-G,4,5,4.09%,468.41,42.98,26.19,Rs.100.0,Sankaran Naren,50154.17,Equity,High ,32.668,32.31144902475871,1
+icici prudential mutual fund,ICICI Pru Balanced Advantage-G,4,4,2.55%,70.89,22.41,13.87,Rs.100.0,Sankaran Naren,61103.4,Hybrid,Very High,18.512,18.429846413938368,0
+icici prudential mutual fund,ICICI Pru Passive Strategy (FOF)-G,3,4,5.44%,163.46,35.72,18.52,Rs.1000.0,Sankaran Naren,187.63,Other,Very High,25.696,25.798296992993556,1
+icici prudential mutual fund,ICICI Pru Asset Allocator (FOF)-G,3,4,2.36%,113.82,21.55,13.88,Rs.1000.0,Sankaran Naren,22631.1,Other,High,18.172,18.078092718417683,0
+franklin templeton mutual fund,Franklin India Corporate Debt A-G,4,3,0.65%,92.22,7.22,5.22,Rs.500.0,Santosh Kamath,799.52,Debt,Moderate,7.976000000000001,7.982283024864408,0
+franklin templeton mutual fund,Franklin India Corporate Debt A-G Plan B,0,3,0.65%,92.22,7.22,5.22,Rs.500.0,Santosh Kamath,799.52,Debt,Moderate,7.976000000000001,7.982283024864408,0
+motilal oswal mutual fund,Motilal Oswal Balance Advantage Reg-G,2,1,8.72%,23.23,23.53,14.37,Rs.500.0,Santosh Singh,1315.31,Hybrid,Very High,16.16,16.533119291939336,2
+jm financial mutual fund,JM Value-G,5,4,4.79%,110.48,57.23,29.9,Rs.100.0,Satish Ramanathan,1054.44,Equity,High ,38.852000000000004,39.71838232879128,1
+jm financial mutual fund,JM Large Cap-G,4,5,3.02%,166.22,41.67,19.91,Rs.100.0,Satish Ramanathan,392.57,Equity,Moderate ,29.632000000000005,29.719654759158797,1
+jm financial mutual fund,JM Flexicap-G,0,5,3.87%,108.35,58.11,28.46,Rs.100.0,Satish Ramanathan,4228.3,Equity,Moderate ,39.628,42.34615647293563,1
+aditya birla sun life mutual fund,Aditya Birla SL Regular Savings Reg-G,4,3,1.93%,63.16,12.58,8.33,Rs.100.0,Satyabrata Mohanty,1396.88,Hybrid,Moderately High,11.364,11.453128224006651,0
+aditya birla sun life mutual fund,Aditya Birla SL Regular Savings Reg-G Monthly,4,3,1.93%,63.16,12.58,8.33,Rs.100.0,Satyabrata Mohanty,1396.88,Hybrid,Moderately High,11.364,11.453128224006651,0
+aditya birla sun life mutual fund,Aditya Birla SL Equity Advantage Reg-G,2,1,5.89%,941.69,33.97,11.62,Rs.100.0,Satyabrata Mohanty,6297.7,Equity,Very High,19.236,19.285245488422092,2
+aditya birla sun life mutual fund,Aditya Birla SL Equity Hybrid 95 Reg-G,2,2,4.90%,1528.92,29.02,12.3,Rs.100.0,Satyabrata Mohanty,7983.34,Hybrid,Very High,18.528000000000002,18.65096691296716,2
+sbi mutual fund,SBI Conservative Hybrid-G,5,5,1.95%,69.99,14.88,10.55,Rs.500.0,Saurabh Pant,10006.83,Hybrid,High,15.172,14.918087753190598,0
+sbi mutual fund,SBI Large & Midcap-G,3,4,5.01%,621.23,34.6,20.82,Rs.500.0,Saurabh Pant,28172.46,Equity,High ,26.168000000000003,26.165844532552683,1
+sbi mutual fund,SBI Consumption Opportunities-G,0,4,8.01%,350.91,44.59,28.82,Rs.500.0,Saurabh Pant,2853.9,Equity,High ,33.364000000000004,33.49862732183898,1
+jm financial mutual fund,JM Overnight Reg-G,0,3,0.53%,1248.23,6.67,5.59,Rs.100.0,Shalini Tibrewala,200.81,Debt,Low,7.904,7.900350615227284,0
+jm financial mutual fund,JM Liquid-G,4,3,0.57%,67.5,7.26,5.96,Rs.100.0,Shalini Tibrewala,2058.18,Debt,Low to Moderate,8.288,8.2880321644706,0
+jm financial mutual fund,JM Medium to Long Duration-G,1,2,1.06%,58.38,8.38,4.69,Rs.100.0,Shalini Tibrewala,24.54,Debt,Moderate,7.228000000000001,7.127402648176744,2
+jm financial mutual fund,JMLow Duration-G,4,4,0.58%,34.91,7.08,5.54,Rs.100.0,Shalini Tibrewala,245.58,Debt,Low to Moderate,9.048,9.064643973892348,0
+jm financial mutual fund,JM Dynamic Bond-G,3,3,1.07%,39.06,8.38,5.74,Rs.100.0,Shalini Tibrewala,43.53,Debt,Moderate,8.648000000000001,8.689284602387529,0
+uti mutual fund,UTI Nifty 50 Index Reg-G,2,3,5.08%,172.8,27.27,14.39,Rs.500.0,Sharwan Kumar Goyal,19848.18,Other,Very High,19.664,19.669722988996746,2
+uti mutual fund,UTI Nifty Next 50 Index Reg-G,0,4,5.33%,26.81,64.89,20.66,Rs.500.0,Sharwan Kumar Goyal,4791.82,Other,Low ,38.220000000000006,38.201134759775506,1
+uti mutual fund,UTI Arbitrage Reg-G,5,4,0.54%,33.19,7.73,5.92,Rs.500.0,Sharwan Kumar Goyal,6025.37,Hybrid,Low,9.46,9.492304072521637,0
+uti mutual fund,UTI Arbitrage Reg-G Canserve,0,4,0.54%,33.19,7.73,5.92,Rs.500.0,Sharwan Kumar Goyal,6025.37,Hybrid,Low,9.46,9.492304072521637,0
+uti mutual fund,UTI Nifty200 Momentum 30 Index Reg-G,0,4,3.37%,24.69,60.73,22.58,Rs.500.0,Sharwan Kumar Goyal,7979.66,Other,Low ,37.324,38.21044610722537,1
+kotak mahindra mutual fund,Kotak India EQ Contra Reg-G,4,3,5.99%,156.21,51.34,23.76,Rs.100.0,Shibani Kurian,3928.94,Equity,High ,33.040000000000006,33.106908666146765,1
+baroda bnp paribas mutual fund,Baroda BNP Paribas India Consumption Reg-G,0,3,6.29%,34.24,45.16,20.56,Rs.500.0,Shiv Chanani,1519.57,Equity,High ,29.288,29.298688107583576,1
+baroda bnp paribas mutual fund,Baroda BNP Paribas Midcap-G,3,3,5.40%,106.23,47.51,22.36,Rs.500.0,Shiv Chanani,2224.88,Equity,High ,30.948,30.432582702771832,1
+hdfc mutual fund,HDFC Floating Rate Debt-G,5,4,0.64%,46.82,7.92,6.3,Rs.100.0,Shobhit Mehrotra,15209.67,Debt,Low to Moderate,9.688,9.732734642352076,0
+hdfc mutual fund,HDFC Retirement Savings Fund-Hybrid Equity Re,0,4,4.75%,38.99,26.9,16.04,Rs.100.0,Shobhit Mehrotra,1587.24,Other,Moderate ,21.176000000000002,20.94771774488966,1
+hdfc mutual fund,HDFC Retirement Savings Fund-Hybrid Debt Reg-,0,4,1.86%,20.96,13.7,8.81,Rs.100.0,Shobhit Mehrotra,161.68,Other,Moderately High,13.004000000000001,12.140965499443938,0
+hdfc mutual fund,HDFC Hybrid Debt-G,4,4,1.51%,79.29,15.67,10.73,Rs.100.0,Shobhit Mehrotra,3347.9,Hybrid,Moderately High,14.560000000000002,14.725488120378017,0
+hdfc mutual fund,HDFC Medium Term Debt-G,4,3,0.89%,52.89,7.93,5.53,Rs.100.0,Shobhit Mehrotra,4093.1,Debt,Moderate,8.384,8.305366471337894,0
+hdfc mutual fund,HDFC Retirement Savings Equity Reg-G,0,5,5.09%,51.89,35.98,22.09,Rs.100.0,Shobhit Mehrotra,6016.24,Other,Moderate ,28.228,28.079586678422253,1
+hdfc mutual fund,HDFC Credit Risk Debt Reg-G,4,2,0.87%,22.6,8.07,5.9,Rs.100.0,Shobhit Mehrotra,7669.18,Debt,Moderately High,7.588000000000001,7.548926354155727,2
+hdfc mutual fund,HDFC Income-G,3,3,1.08%,54.96,9.13,4.87,Rs.100.0,Shobhit Mehrotra,843.29,Debt,Moderate,8.600000000000001,8.592293034890362,0
+axis mutual fund,Axis Flexi Cap Reg-G,0,2,8.16%,27.16,37.8,12.17,Rs.100.0,Shreyash Devalkar,13110.55,Equity,Very High,21.988,21.411761312902065,2
+axis mutual fund,Axis Midcap Reg-G,3,2,6.94%,115.69,46.26,18.68,Rs.100.0,Shreyash Devalkar,31321.58,Equity,Very High,27.976000000000003,27.57222630678411,1
+axis mutual fund,Axis Bluechip-G,3,1,6.37%,62.11,31.48,9.97,Rs.100.0,Shreyash Devalkar,35451.86,Equity,Very High,17.580000000000002,18.034328490029925,2
+canara robeco mutual fund,Canara Robeco Flexi Cap Reg-G,0,3,5.91%,342.21,35.02,14.56,Rs.100.0,Shridatta Bhandwaldar,13510.37,Equity,Very High,22.832000000000004,22.633289664683467,1
+canara robeco mutual fund,Canara Robeco Small Cap Reg-G,4,4,6.16%,42.02,42.3,24.41,Rs.1000.0,Shridatta Bhandwaldar,12247.75,Equity,Very High ,30.683999999999997,30.55131641475677,1
+canara robeco mutual fund,Canara Robeco Consumer Trends Reg-G,0,3,9.02%,116.57,43.75,20.73,Rs.1000.0,Shridatta Bhandwaldar,1759.96,Equity,High ,28.792,28.871124843861956,1
+canara robeco mutual fund,Canara Robeco Emerging Equities Reg-G,3,2,5.99%,260.47,41.06,17.06,Rs.1000.0,Shridatta Bhandwaldar,25038.82,Equity,High ,25.248000000000005,25.166770204561654,2
+canara robeco mutual fund,Canara Robeco Focused Equity Reg-G,3,4,8.09%,19.91,38.26,18.33,Rs.1000.0,Shridatta Bhandwaldar,2550.89,Equity,Moderately High ,26.636,26.428254206892387,1
+hsbc mutual fund,HSBC Dynamic Bond-G,3,3,1.20%,27.97,9.15,5.38,Rs.1000.0,Shriram Ramanathan,161.95,Debt,Moderate,8.812000000000001,8.778356540043863,0
+hsbc mutual fund,HSBC Liquid Reg-G,4,4,0.58%,2464.84,7.33,6.0,Rs.1000.0,Shriram Ramanathan,18418.61,Debt,Low to Moderate,9.332,9.296721882489154,0
+hsbc mutual fund,HSBC Gilt-G,2,1,1.26%,63.24,9.13,4.91,Rs.1000.0,Shriram Ramanathan,192.25,Debt,Moderate,6.6160000000000005,6.483991420273159,2
+hsbc mutual fund,HSBC Money Market-G,4,3,0.59%,24.86,7.27,5.69,Rs.1000.0,Shriram Ramanathan,2239.63,Debt,Low to Moderate,8.184000000000001,8.20930870402734,0
+hsbc mutual fund,HSBC Short Duration Reg-G,3,2,0.71%,24.79,7.49,5.08,Rs.1000.0,Shriram Ramanathan,3783.16,Debt,Moderate,7.0280000000000005,7.032529506551789,2
+hsbc mutual fund,HSBCLow Duration-G,4,4,0.57%,26.67,7.25,5.69,Rs.1000.0,Shriram Ramanathan,459.19,Debt,Low to Moderate,9.176,9.092467627290347,0
+hsbc mutual fund,HSBC Medium to Long Duration-G,2,1,1.04%,39.94,7.93,4.25,Rs.1000.0,Shriram Ramanathan,47.87,Debt,Moderate,5.872,6.054350424561154,2
+hsbc mutual fund,HSBC Corporate Bond-G,4,1,0.83%,68.43,7.78,5.19,Rs.1000.0,Shriram Ramanathan,6176.66,Debt,Moderate,6.188000000000001,6.291405571475754,2
+hsbc mutual fund,HSBC Medium Duration Reg-G,3,3,0.83%,19.11,7.99,5.49,Rs.1000.0,Shriram Ramanathan,817.46,Debt,Moderate,8.392000000000001,8.432355934593675,0
+hsbc mutual fund,HSBC Credit Risk-G,3,3,0.68%,27.08,6.91,5.78,Rs.500.0,Shriram Ramanathan,573.89,Debt,Moderate,8.076,8.041871051684122,0
+hsbc mutual fund,HSBC Aggressive Hybrid-G,3,3,3.71%,56.08,33.13,14.8,Rs.500.0,Shriram Ramanathan,5855.82,Hybrid,Very High,22.172000000000004,21.88509985785685,1
+motilal oswal mutual fund,Motilal Oswal Flexi Cap Reg-G,0,3,10.30%,62.06,57.61,19.79,Rs.500.0,Siddharth Bothra,11728.02,Equity,Moderate ,33.96,33.29938062684226,1
+motilal oswal mutual fund,Motilal Oswal Focused Reg-G,3,2,11.55%,51.74,39.25,14.66,Rs.500.0,Siddharth Bothra,2142.16,Equity,Very High,23.564,23.644210549785498,2
+sbi mutual fund,SBI Magnum Midcap-G,3,4,6.18%,246.86,37.31,23.26,Rs.500.0,Sohini Andani,21516.89,Equity,High ,28.228,28.068537506337133,1
+sbi mutual fund,SBI Bluechip-G,4,3,5.52%,92.94,28.21,15.34,Rs.500.0,Sohini Andani,51632.73,Equity,Very High,20.42,19.856700223799702,2
+tata mutual fund,Tata India Consumer Reg-G,0,2,8.09%,47.49,46.75,21.39,Rs.100.0,Sonam Udasi,2371.44,Equity,High ,29.256,29.074321890524075,1
+tata mutual fund,Tata Equity PE Reg-G,4,3,6.23%,378.59,51.17,25.02,Rs.100.0,Sonam Udasi,9042.95,Equity,Very High,33.476000000000006,33.24951741097949,1
+tata mutual fund,Tata BSE Sensex Index Reg,2,2,4.99%,207.16,23.57,13.19,Rs.150.0,Sonam Udasi,371.63,Other,Very High,16.704,16.670175014537325,2
+tata mutual fund,Tata Nifty 50 Index Reg,2,3,5.06%,156.85,27.01,14.14,Rs.150.0,Sonam Udasi,893.96,Other,Very High,19.46,19.625538412057992,2
+uti mutual fund,UTI Floater Reg-G,2,3,0.54%,1410.47,6.86,5.34,Rs.500.0,Sudhir Agrawal,1361.81,Debt,Low to Moderate,7.880000000000001,7.895118153868237,0
+uti mutual fund,UTI Short Duration Reg-G,4,5,0.80%,29.76,7.8,7.32,Rs.500.0,Sudhir Agrawal,2884.39,Debt,Moderate,11.048,11.053091157681417,0
+uti mutual fund,UTI Dynamic Bond Reg-G,4,3,1.11%,29.2,8.54,10.99,Rs.500.0,Sudhir Agrawal,456.33,Debt,Moderate,10.812,10.965918208242627,0
+uti mutual fund,UTI Gilt Reg-G,4,4,1.19%,59.6,9.36,5.81,Rs.500.0,Sudhir Agrawal,647.48,Debt,Moderate,10.068,10.05416239096655,0
+sundaram mutual fund,Sundaram ELSS Tax Saver,3,3,5.34%,515.23,31.14,17.33,Rs.500.0,Sudhir Kedia,1411.24,Equity,Moderate ,22.388,22.40141694823605,1
+canara robeco mutual fund,Canara Robeco Overnight Reg-G,0,3,0.53%,1273.33,6.7,5.63,Rs.1000.0,Suman Prasad,121.42,Debt,Low,7.932,7.920139738424899,0
+canara robeco mutual fund,Canara Robeco Corporate Bond Reg-G,3,3,0.80%,20.53,7.27,4.95,Rs.1000.0,Suman Prasad,135.76,Debt,Moderate,7.888,8.038740399730647,0
+canara robeco mutual fund,Canara Robeco Short Duration Reg-G,3,3,0.68%,23.92,7.03,4.92,Rs.1000.0,Suman Prasad,349.22,Debt,Moderate,7.780000000000001,7.732196516098284,0
+canara robeco mutual fund,Canara Robeco Ultra Short Term Reg-G,3,2,0.53%,3596.73,6.6,5.24,Rs.500.0,Suman Prasad,553.81,Debt,Low to Moderate,6.736000000000001,6.745718649196103,2
+bandhan mutual fund,Bandhan Conservative Hybrid Reg-G,3,2,2.07%,31.07,13.02,6.13,Rs.100.0,Sumit Agrawal,116.93,Hybrid,Moderately High,9.66,9.734643509214681,2
+bandhan mutual fund,Bandhan Focused Equity Reg-G,2,3,9.87%,87.42,43.47,18.04,Rs.100.0,Sumit Agrawal,1743.48,Equity,Moderately High ,27.604000000000003,27.65601487000931,1
+aditya birla sun life mutual fund,Aditya Birla SL Liquid Reg-G,5,5,0.58%,398.28,7.34,6.01,Rs.100.0,Sunaina da Cunha,51991.37,Debt,Moderate,10.34,10.397254350458848,0
+aditya birla sun life mutual fund,Aditya Birla SL Credit Risk Reg-G,3,3,1.00%,19.6,8.76,7.36,Rs.100.0,Sunaina da Cunha,914.25,Debt,Moderately High,9.448,9.546190008976724,0
+aditya birla sun life mutual fund,Aditya Birla SL Savings Reg-G,5,4,0.59%,515.23,7.45,6.1,Rs.1000.0,Sunaina da Cunha,13722.28,Debt,Moderate,9.42,9.364353210252917,0
+aditya birla sun life mutual fund,Aditya Birla SL Medium Term Reg-G,5,5,0.93%,35.86,8.42,12.84,Rs.1000.0,Sunaina da Cunha,1892.36,Debt,Moderately High,13.504000000000001,13.788136484251837,0
+uti mutual fund,UTI Multi Asset Allocation Reg-G,1,4,3.47%,73.43,39.65,18.62,Rs.500.0,Sunil Patil,3459.61,Hybrid,High,27.308,27.25400173136918,1
+navi mutual fund,Navi Liquid-G,5,2,0.56%,26.96,6.9,5.96,Rs.10.0,Surbhi Sharma,70.32,Debt,Moderate,7.144,7.062749723230455,2
+nippon india mutual fund,Nippon India Credit Risk-G,3,4,0.70%,32.56,7.92,6.39,Rs.100.0,Sushil Budhia,1027.94,Debt,High,9.724,9.638196596509275,0
+bandhan mutual fund,Bandhan Corporate Bond Reg-G,3,3,0.76%,18.01,7.47,5.11,Rs.100.0,Suyash Choudhary,13633.46,Debt,Moderate,8.032,7.993852168283522,0
+bandhan mutual fund,Bandhan Banking & PSU Debt Reg-G,4,4,0.70%,23.12,7.39,5.46,Rs.100.0,Suyash Choudhary,13887.95,Debt,Moderate,9.14,9.167241102247846,0
+bandhan mutual fund,Bandhan Bond Medium Term Reg-G,3,2,0.83%,43.0,7.76,4.62,Rs.100.0,Suyash Choudhary,1512.8,Debt,Moderate,6.952,6.942805568467743,2
+bandhan mutual fund,Bandhan GSF Investment Reg-G,4,3,1.66%,33.88,11.72,6.13,Rs.100.0,Suyash Choudhary,2647.5,Debt,Moderate,10.14,10.062543052330982,0
+bandhan mutual fund,Bandhan Dynamic Bond Reg-G,4,2,1.62%,32.72,11.11,5.7,Rs.100.0,Suyash Choudhary,2713.22,Debt,Moderate,8.724,8.658024407447574,2
+bandhan mutual fund,Bandhan Floating Rate Reg-G,2,3,0.79%,12.07,7.67,5.65,Rs.100.0,Suyash Choudhary,319.76,Debt,Moderate,8.328000000000001,8.355365086104271,0
+bandhan mutual fund,Bandhan Bond Income Reg-G,3,2,1.05%,62.0,8.3,4.52,Rs.100.0,Suyash Choudhary,477.57,Debt,Moderate,7.128,7.086450551193451,2
+bandhan mutual fund,Bandhan Bond Short Term Reg-G,4,2,0.77%,53.55,7.94,5.39,Rs.100.0,Suyash Choudhary,8908.66,Debt,Moderate,7.332000000000001,7.351216942807809,2
+motilal oswal mutual fund,Motilal Oswal Nifty Midcap 150 Index Reg-G,0,3,5.43%,38.53,46.82,25.69,Rs.500.0,Swapnil P Mayekar,1866.01,Other,Very High,32.004000000000005,32.10114545458183,1
+motilal oswal mutual fund,Motilal Oswal Nifty 500 Index Reg-G,0,3,5.37%,26.61,36.14,17.13,Rs.500.0,Swapnil P Mayekar,2018.89,Other,Low ,24.308,24.308015402624985,1
+motilal oswal mutual fund,Motilal Oswal Nifty Next 50 Index Reg-G,0,4,5.32%,25.96,64.42,20.44,Rs.500.0,Swapnil P Mayekar,292.41,Other,Low ,37.944,38.12666296716461,1
+motilal oswal mutual fund,Motilal Oswal Nifty 50 Index Reg-G,0,2,5.06%,21.28,27.07,14.11,Rs.500.0,Swapnil P Mayekar,572.95,Other,Very High,18.472,18.36160503731597,2
+motilal oswal mutual fund,Motilal Oswal Nifty Bank Index Reg-G,0,2,4.15%,18.49,12.98,12.33,Rs.500.0,Swapnil P Mayekar,599.97,Other,Very High,12.124,11.519813960902155,2
+motilal oswal mutual fund,Motilal Oswal Nifty Smallcap 250 Index Reg-G,0,2,7.85%,39.96,52.05,25.32,Rs.500.0,Swapnil P Mayekar,822.3,Other,Very High,32.948,33.089467395640035,1
+invesco mutual fund,Invesco India Contra-G,5,3,7.13%,139.28,50.44,22.68,Rs.100.0,Taher Badshah,17817.05,Equity,High ,32.248000000000005,32.07634960116714,1
+invesco mutual fund,Invesco India Focused Fund Reg-G,4,4,9.06%,28.89,68.45,23.58,Rs.500.0,Taher Badshah,3080.48,Equity,Moderately High ,40.812000000000005,39.47134024926811,1
+invesco mutual fund,Invesco India Smallcap Reg-G,3,4,10.25%,42.82,60.19,27.78,Rs.500.0,Taher Badshah,5092.95,Equity,Very High ,39.188,41.30664155455675,1
+sbi mutual fund,SBI Healthcare Opportunities-G,0,4,8.54%,421.68,50.36,21.48,Rs.500.0,Tanmaya Desai,3202.66,Equity,High ,32.736000000000004,32.9717601495928,1
+edelweiss mutual fund,Edelweiss Large & Mid Cap Reg-G,3,3,6.67%,88.98,42.39,19.85,Rs.100.0,Trideep Bhattacharya,3655.14,Equity,Moderately High ,27.896,28.137836204878223,1
+uti mutual fund,UTI Healthcare Reg-G,0,3,9.08%,289.35,56.86,19.27,Rs.500.0,V Srivatsa,1167.75,Equity,High ,33.452,33.26238264677748,1
+uti mutual fund,UTI Large & Mid Cap Reg-G,3,4,6.20%,184.53,48.34,23.45,Rs.500.0,V Srivatsa,3931.11,Equity,High ,32.716,33.202568623468274,1
+uti mutual fund,UTI Equity Savings Reg-G,3,4,1.72%,17.69,15.8,11.14,Rs.500.0,V Srivatsa,503.12,Hybrid,Moderate,14.776,14.668195020634462,0
+uti mutual fund,UTI Aggressive Hybrid Reg-G,4,4,4.97%,407.4,33.89,18.51,Rs.500.0,V Srivatsa,6189.11,Hybrid,Very High,24.96,25.05480326445811,1
+uti mutual fund,UTI Aggressive Hybrid Reg-G Canserve,0,4,4.97%,407.4,33.89,18.51,Rs.500.0,V Srivatsa,6189.11,Hybrid,Very High,24.96,25.05480326445811,1
+franklin templeton mutual fund,Franklin India NSE Nifty 50 Index-G,2,2,5.06%,203.13,26.88,13.96,Rs.500.0,Varun Sharma,728.35,Other,Very High,18.336000000000002,18.253526350635607,2
+quant mutual fund,Quant Infrastructure-G,4,4,1.77%,42.13,60.0,30.93,Rs.1000.0,Vasav Sahgal,3990.92,Equity,High ,40.372,43.00553344636865,1
+quant mutual fund,Quant ELSS Tax Saver-G,5,5,3.47%,407.92,45.32,24.53,Rs.500.0,Vasav Sahgal,11124.71,Equity,Moderate ,32.94,33.15501654203079,1
+hsbc mutual fund,HSBC Value-G,4,4,6.44%,111.78,48.58,25.6,Rs.500.0,Venugopal Manghat,13871.64,Equity,Very High,33.672000000000004,33.87343518684639,1
+hsbc mutual fund,HSBC Small Cap-G,3,3,7.32%,89.66,44.76,28.03,Rs.500.0,Venugopal Manghat,16982.89,Equity,Very High ,32.116,32.623978356922926,1
+hsbc mutual fund,HSBC Infrastructure-G,3,3,4.89%,51.3,53.68,31.34,Rs.500.0,Venugopal Manghat,2803.61,Equity,Very High,37.008,37.319031430162134,1
+hsbc mutual fund,HSBC Flexi Cap-G,0,4,7.00%,225.4,45.88,21.45,Rs.500.0,Venugopal Manghat,5077.97,Equity,Moderate ,30.932000000000002,30.743708508008964,1
+hsbc mutual fund,HSBC Midcap-G,3,3,7.04%,403.1,58.96,24.17,Rs.500.0,Vihang Naik,12021.31,Equity,High ,36.252,36.992446493809666,1
+hdfc mutual fund,HDFC Money Market-G,4,3,0.59%,5380.44,7.51,6.15,Rs.100.0,Vikash Agarwal,28725.37,Debt,Low to Moderate,8.464,8.443933046466203,0
+dsp mutual fund,DSP Equity & Bond-G,3,3,5.95%,352.14,31.35,13.85,Rs.100.0,Vikram Chopra,10322.86,Hybrid,Very High,21.080000000000002,20.777102705375928,2
+dsp mutual fund,DSP Gilt-G,4,4,1.59%,91.17,10.5,6.4,Rs.100.0,Vikram Chopra,1211.45,Debt,Moderate,10.760000000000002,10.742570943072417,0
+dsp mutual fund,DSP Strategic Bond Reg-G,4,3,1.57%,3209.6,9.95,6.21,Rs.100.0,Vikram Chopra,1502.67,Debt,Moderate,9.464,9.545554976084583,0
+dsp mutual fund,DSP Regular Savings Reg-G,3,3,1.94%,55.8,15.36,8.23,Rs.100.0,Vikram Chopra,178.41,Hybrid,Moderately High,12.436,12.473463590677564,0
+dsp mutual fund,DSP Banking & PSU Debt Reg-G,4,3,1.02%,22.63,8.42,5.65,Rs.100.0,Vikram Chopra,2533.14,Debt,Moderate,8.628,8.646647478181563,0
+nippon india mutual fund,Nippon India Multi Asset Allocation Reg-G,0,3,3.20%,20.33,31.48,16.21,Rs.100.0,Vikram Dhawan,4095.21,Hybrid,Moderate ,22.076,22.049913377129517,1
+baroda bnp paribas mutual fund,Baroda BNP Paribas Arbitrage Reg-G,0,3,0.60%,15.28,7.68,5.82,Rs.500.0,Vikram Pamnani,1301.1,Hybrid,Low,8.4,8.329533564172747,0
+baroda bnp paribas mutual fund,Baroda BNP Paribas Overnight Reg-G,0,4,0.54%,1291.08,6.72,5.62,Rs.500.0,Vikram Pamnani,816.43,Debt,Low,8.936,8.966403029004912,0
+union mutual fund,Union Midcap Reg-G,2,2,5.89%,48.89,43.67,21.28,Rs.500.0,Vinay Paharia,1406.99,Equity,High ,27.98,28.44690352527603,1
+union mutual fund,Union Small Cap Reg-G,2,2,6.98%,51.49,35.14,22.12,Rs.500.0,Vinay Paharia,1632.44,Equity,Very High ,24.904000000000003,24.95349098083224,1
+union mutual fund,Union Flexi Cap-G,0,4,5.56%,52.01,32.44,15.74,Rs.500.0,Vinay Paharia,2306.94,Equity,Very High,23.272,23.677481265287536,1
+union mutual fund,Union Value Reg-G,3,3,5.10%,28.85,37.97,20.75,Rs.500.0,Vinay Paharia,292.89,Equity,High ,26.488,26.389300846047828,1
+union mutual fund,Union Largecap Reg-G,2,3,4.99%,24.19,28.06,13.68,Rs.500.0,Vinay Paharia,421.9,Equity,Very High,19.696,19.761004752915255,2
+union mutual fund,Union Focused Reg-G,3,3,4.99%,25.87,26.13,13.09,Rs.500.0,Vinay Paharia,426.55,Equity,Very High,18.688000000000002,18.812995872542988,2
+union mutual fund,Union Large & Midcap Reg-G,2,3,5.79%,26.32,34.08,17.06,Rs.500.0,Vinay Paharia,860.15,Equity,High ,23.456,23.38245884523466,1
+union mutual fund,Union ELSS Tax Saver-G,2,4,6.39%,66.81,34.1,17.42,Rs.500.0,Vinay Paharia,969.01,Equity,Moderate ,24.608,24.77186537635667,1
+nippon india mutual fund,Nippon India Banking & Financial Services,3,4,6.91%,589.88,25.39,18.62,Rs.100.0,Vinay Sharma,6138.44,Equity,Very High,21.604,21.065826487159654,1
+nippon india mutual fund,Nippon India Focused Equity-G,3,3,5.65%,123.83,30.52,17.98,Rs.100.0,Vinay Sharma,8887.35,Equity,Moderately High ,22.4,22.429749928138857,1
+dsp mutual fund,DSP Small Cap Reg-G,3,2,6.76%,205.45,42.66,26.06,Rs.100.0,Vinit Sambre,16571.97,Equity,Very High ,29.488,29.733883458517777,1
+dsp mutual fund,DSP Midcap Reg-G,2,1,5.77%,152.99,44.34,18.06,Rs.100.0,Vinit Sambre,20068.84,Equity,High ,25.96,26.221766792932215,2
+dsp mutual fund,DSP Focus-G,2,2,7.14%,55.82,42.15,16.74,Rs.100.0,Vinit Sambre,2667.24,Equity,Moderately High ,25.555999999999997,25.395803325997093,2
+dsp mutual fund,DSP Healthcare Reg-G,0,3,7.64%,40.87,57.09,19.74,Rs.100.0,Vinit Sambre,2934.17,Equity,Moderately High ,33.732000000000006,33.28642042708687,1
+aditya birla sun life mutual fund,Aditya Birla SL Asset Allocator FoF Reg-G,3,3,3.41%,64.79,31.25,14.7,Rs.100.0,Vinod Bhat,181.17,Other,Very High,21.38,21.51241550774535,2
+aditya birla sun life mutual fund,Aditya Birla SL Financial Planning FoF Aggres,2,2,3.96%,53.35,33.47,16.59,Rs.100.0,Vinod Bhat,224.41,Other,Moderate ,22.024,22.207420028629333,2
+aditya birla sun life mutual fund,Aditya Birla SL Financial Planning FoF Modera,2,3,3.20%,41.25,26.45,13.88,Rs.100.0,Vinod Bhat,37.08,Other,High,19.132,19.320313000914865,2
+aditya birla sun life mutual fund,Aditya Birla SL Financial Planning FoF Conser,3,3,2.40%,32.86,19.46,11.21,Rs.500.0,Vinod Bhat,19.22,Other,High,15.268,14.842389701016582,2
+uti mutual fund,UTI Focused Reg-G,3,3,6.77%,16.53,37.65,17.29,Rs.500.0,Vishal Chopda,2879.87,Equity,Moderately High ,24.976,24.910682435644834,1
+uti mutual fund,UTI ELSS Tax Saver-G,2,2,6.15%,217.33,34.6,14.61,Rs.500.0,Vishal Chopda,4121.16,Equity,Very High,21.684,21.664072375457554,2
+uti mutual fund,UTI India Consumer Reg-G,4,1,6.40%,62.29,42.85,17.08,Rs.500.0,Vishal Chopda,727.62,Equity,High ,24.972,24.954276986320597,2
+aditya birla sun life mutual fund,Aditya Birla SL Small Cap Reg-G,1,1,6.76%,91.89,37.99,19.09,Rs.100.0,Vishal Gajwani,5269.18,Equity,Very High ,23.832,23.910916306439127,2
+canara robeco mutual fund,Canara Robeco Bluechip Equity Reg-G,4,4,5.67%,63.14,33.46,14.65,Rs.100.0,Vishal Mishra,14869.72,Equity,Very High,23.244,22.75535092979312,1
+canara robeco mutual fund,Canara Robeco Infrastructure Reg-G,3,3,3.65%,165.49,64.67,31.45,Rs.1000.0,Vishal Mishra,886.99,Equity,Very High,41.448,42.88010936438244,1
+canara robeco mutual fund,Canara Robeco ELSS Tax Saver Reg-G,4,3,6.42%,180.82,36.67,16.05,Rs.500.0,Vishal Mishra,9048.83,Equity,Moderate ,24.088,24.09400123801121,1
+nippon india mutual fund,Nippon India Corporate Bond-G,4,5,0.83%,56.04,8.12,6.18,Rs.100.0,Vivek Sharma,3436.89,Debt,Moderate,10.719999999999999,10.673024113918062,0
+nippon india mutual fund,Nippon India Banking & PSU Debt-G,4,3,0.78%,19.46,7.67,5.49,Rs.100.0,Vivek Sharma,5337.37,Debt,Moderate,8.264000000000001,8.312300622508165,0
+nippon india mutual fund,Nippon India Short-term-G,4,3,0.72%,49.36,7.74,5.49,Rs.100.0,Vivek Sharma,6974.03,Debt,Moderate,8.292,8.25751147509864,0
+nippon india mutual fund,Nippon India Ultra Short Duration-G,3,5,0.55%,3806.35,7.02,5.81,Rs.100.0,Vivek Sharma,7599.9,Debt,Moderate,10.132,10.113464291355562,0
+dsp mutual fund,DSP Corporate Bond Reg-G,2,2,0.63%,14.96,7.37,4.95,Rs.100.0,Vivekanand Ramakrishnan,2588.91,Debt,Moderate,6.928000000000001,6.743992056876505,2
+dsp mutual fund,DSP Bond Ret-G,3,3,0.82%,76.44,7.86,5.45,Rs.100.0,Vivekanand Ramakrishnan,371.65,Debt,Moderate,8.324,8.29824210489484,0
+dsp mutual fund,DSP Credit Risk-G,4,5,0.67%,41.09,15.89,10.18,Rs.500.0,Vivekanand Ramakrishnan,191.12,Debt,Moderately High,15.428,15.041319688176518,0
+mirae asset mutual fund,Mirae Asset Healthcare Reg-G,0,3,6.64%,39.39,50.92,18.25,Rs.500.0,Vrijesh Kasera,2758.76,Equity,High ,30.668000000000003,31.54708343815013,1
+lic mutual fund,LIC MF Large Cap-G,2,3,4.85%,57.66,31.34,13.48,Rs.1000.0,Yogesh Patil,1576.3,Equity,Very High,20.928,20.811213339221815,2
+lic mutual fund,LIC MF Large & Mid Cap Reg-G,2,2,4.98%,40.39,48.16,19.01,Rs.1000.0,Yogesh Patil,3220.66,Equity,High ,28.868000000000002,29.12777204948833,1
+lic mutual fund,LIC MF Infrastructure-G,3,4,2.92%,51.91,76.07,33.55,Rs.1000.0,Yogesh Patil,725.1,Equity,Very High,47.848,43.00553344636865,1
