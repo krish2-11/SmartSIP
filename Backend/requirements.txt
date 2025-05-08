@@ -1,8 +1,9 @@
-﻿Flask
+﻿flask
 pandas
 scikit-learn
 numpy
 lightgbm
 joblib
 gunicorn
+waitress
 python-dotenv
